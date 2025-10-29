@@ -13,10 +13,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1️⃣ Checkout repository
       - uses: actions/checkout@v4
 
-      # 2️⃣ Generate index.html dynamically
       - name: Build index.html from PDFs
         run: |
           # Start the HTML file
@@ -43,31 +41,21 @@ footer{margin-top:3rem;font-size:0.8rem;color:#777;border-top:1px solid #eee;pad
 <div class='pub-list'>
 EOF
 
-          # Loop over PDFs safely (handles spaces and special characters)
+          # Loop over PDFs safely
           shopt -s nullglob
           for f in pdfs/*.pdf; do
             fname=$(basename "$f")
-            
-            # Extract the first 4-digit year in the filename, fallback to Unknown Year
             year=$(echo "$fname" | grep -oE '[0-9]{4}' | head -n1 || echo "Unknown Year")
-            
-            # Remove the year and .pdf extension to get a clean title
             title=$(echo "$fname" | sed -E "s/$year//" | sed -E 's/\.pdf$//' | sed -E 's/[-_]/ /g' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
-            
-            # Escape special HTML characters in title
             title_escaped=$(echo "$title" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&#39;/g')
-            
-            # Append entry to index.html
             echo "<div class='pub-item'>
   <a href='pdfs/$fname' target='_blank'>$year — $title_escaped</a>
   <a class='download' href='pdfs/$fname' download>(Download PDF)</a>
 </div>" >> index.html
           done
 
-          # Close HTML file
           echo "</div><footer>© 2025 McWilliams Lab — Licensed under CC BY-SA 4.0</footer></body></html>" >> index.html
 
-      # 3️⃣ Commit and push updated index.html
       - name: Commit changes
         run: |
           git config user.name "github-actions"
