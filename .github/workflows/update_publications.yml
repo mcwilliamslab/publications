@@ -16,10 +16,13 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Build index.html from PDFs
+        shell: bash
         run: |
+          #!/usr/bin/env bash
+          set -e
+
           # Start the HTML file
-          cat << 'EOF' > index.html
-<!DOCTYPE html>
+          echo '<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -38,8 +41,7 @@ footer{margin-top:3rem;font-size:0.8rem;color:#777;border-top:1px solid #eee;pad
 <body>
 <h1>McWilliams Lab Publications</h1>
 <p>Below are research papers and PDFs made publicly available by the McWilliams Lab. Click the title to view or download.</p>
-<div class='pub-list'>
-EOF
+<div class="pub-list">' > index.html
 
           # Loop over PDFs safely
           shopt -s nullglob
@@ -47,6 +49,7 @@ EOF
             fname=$(basename "$f")
             year=$(echo "$fname" | grep -oE '[0-9]{4}' | head -n1 || echo "Unknown Year")
             title=$(echo "$fname" | sed -E "s/$year//" | sed -E 's/\.pdf$//' | sed -E 's/[-_]/ /g' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+            # Escape HTML characters
             title_escaped=$(echo "$title" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&#39;/g')
             echo "<div class='pub-item'>
   <a href='pdfs/$fname' target='_blank'>$year — $title_escaped</a>
@@ -54,7 +57,8 @@ EOF
 </div>" >> index.html
           done
 
-          echo "</div><footer>© 2025 McWilliams Lab — Licensed under CC BY-SA 4.0</footer></body></html>" >> index.html
+          # Close HTML
+          echo '</div><footer>© 2025 McWilliams Lab — Licensed under CC BY-SA 4.0</footer></body></html>' >> index.html
 
       - name: Commit changes
         run: |
@@ -63,3 +67,4 @@ EOF
           git add index.html
           git commit -m "Auto-update publications list" || echo "No changes to commit"
           git push
+
