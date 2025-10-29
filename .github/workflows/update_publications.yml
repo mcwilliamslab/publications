@@ -1,6 +1,5 @@
 name: Update Publications Page
 
-# Trigger on pushes to PDFs folder or manual trigger
 on:
   push:
     paths:
@@ -24,27 +23,34 @@ jobs:
           <meta name='viewport' content='width=device-width, initial-scale=1.0'>
           <title>McWilliams Lab Publications</title>
           <style>
-            body{font-family:sans-serif;margin:2rem;color:#333;}
-            h1{font-size:2rem;color:#2b4b80;}
+            body{font-family:sans-serif;margin:2rem;color:#333;line-height:1.6;}
+            h1{font-size:2rem;margin-bottom:1rem;color:#2b4b80;}
             .pub-item{margin-bottom:1.2rem;}
             a{color:#0066cc;text-decoration:none;}
             a:hover{text-decoration:underline;}
+            .download{margin-left:0.5rem;font-size:0.9rem;}
+            footer{margin-top:3rem;font-size:0.8rem;color:#777;border-top:1px solid #eee;padding-top:1rem;}
           </style>
           </head>
           <body>
           <h1>McWilliams Lab Publications</h1>
-          <p>Below are downloadable PDFs from our lab:</p>
+          <p>Below are research papers and PDFs made publicly available by the McWilliams Lab. Click the title to view or download.</p>
           <div class='pub-list'>" > index.html
 
           # Loop over PDFs and append HTML entries
           for f in pdfs/*.pdf; do
             fname=$(basename "$f")
+            # Extract year if present in filename
             year=$(echo "$fname" | grep -oE '[0-9]{4}' || echo "Unknown Year")
+            # Create title from filename
             title=$(echo "$fname" | sed -E 's/[-_]/ /g' | sed 's/.pdf//')
-            echo "<div class='pub-item'><a href='$f' target='_blank'>$year — $title</a> <a href='$f' download>(Download PDF)</a></div>" >> index.html
+            echo "<div class='pub-item'>
+                    <a href='pdfs/$fname' target='_blank'>$year — $title</a>
+                    <a class='download' href='pdfs/$fname' download>(Download PDF)</a>
+                  </div>" >> index.html
           done
 
-          echo "</div><footer><p>© 2025 McWilliams Lab</p></footer></body></html>" >> index.html
+          echo "</div><footer>© 2025 McWilliams Lab — Licensed under CC BY-SA 4.0</footer></body></html>" >> index.html
 
       # 3️⃣ Commit and push updated index.html
       - name: Commit changes
