@@ -20,6 +20,12 @@ jobs:
       - name: Install yq for YAML parsing
         run: sudo apt-get update && sudo apt-get install -y yq
 
+      - name: Debug YAML contents
+        run: |
+          echo "---- DEBUG: Printing metadata.yml ----"
+          cat metadata.yml
+          echo "--------------------------------------"
+
       - name: Build index.html from metadata.yml
         run: |
           echo "<!DOCTYPE html>
@@ -79,12 +85,16 @@ jobs:
             <p>Below are research papers and PDFs made publicly available by the McWilliams Lab. Click the title to view or download.</p>
             <div class='pub-list'>" > index.html
 
-          # Loop through metadata.yml
-          for i in $(seq 0 $(($(yq '. | length' metadata.yml)-1))); do
-            file=$(yq ".[$i].file" metadata.yml)
-            title=$(yq ".[$i].title" metadata.yml)
-            author=$(yq ".[$i].author" metadata.yml)
-            year=$(yq ".[$i].year" metadata.yml)
+          total_items=$(yq '. | length' metadata.yml)
+          echo "Processing $total_items publications from metadata.yml..."
+
+          for i in $(seq 0 $((total_items - 1))); do
+            file=$(yq -r ".[$i].file" metadata.yml)
+            title=$(yq -r ".[$i].title" metadata.yml)
+            author=$(yq -r ".[$i].author" metadata.yml)
+            year=$(yq -r ".[$i].year" metadata.yml)
+
+            echo "Adding: $year | $title | $file"
 
             echo "<div class='pub-item'>
               <a href=\"pdfs/$file\" target='_blank'>$year — $title</a>
@@ -95,10 +105,10 @@ jobs:
 
           echo "</div><footer>© 2025 McWilliams Lab — Licensed under CC BY-SA 4.0</footer></body></html>" >> index.html
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add index.html
-          git commit -m "Auto-update publications list from metadata.yml" || echo "No changes to commit"
+          git commit -m "Rebuild publications page from metadata.yml (force update)" || echo "No changes to commit"
           git push
