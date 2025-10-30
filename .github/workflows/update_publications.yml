@@ -16,6 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install PDF utilities
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+
       - name: Build index.html from PDFs
         run: |
           echo "<!DOCTYPE html>
@@ -39,15 +42,24 @@ jobs:
             <p>Below are research papers and PDFs made publicly available by the McWilliams Lab. Click the title to view or download.</p>
             <div class='pub-list'>" > index.html
 
-          # Loop over PDFs safely
           shopt -s nullglob
           for f in pdfs/*.pdf; do
             fname=$(basename "$f")
-            year=$(echo "$fname" | grep -oE '[0-9]{4}' | head -n1 || echo "Unknown Year")
-            title="${fname%.pdf}"
+            # Extract metadata
+            title=$(pdfinfo "$f" | grep '^Title:' | cut -d':' -f2- | xargs)
+            author=$(pdfinfo "$f" | grep '^Author:' | cut -d':' -f2- | xargs)
+            year=$(pdfinfo "$f" | grep '^CreationDate:' | grep -oE '[0-9]{4}' | head -n1)
+
+            # Fallbacks if metadata missing
+            [ -z "$title" ] && title="${fname%.pdf}"
+            [ -z "$year" ] && year=$(echo "$fname" | grep -oE '[0-9]{4}' | head -n1 || echo "Unknown Year")
+
             title_escaped=$(echo "$title" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/\"/\&quot;/g; s/'"'"'/\&#39;/g')
+            author_escaped=$(echo "$author" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/\"/\&quot;/g; s/'"'"'/\&#39;/g')
+
             echo "<div class='pub-item'>
               <a href=\"pdfs/$fname\" target='_blank'>$year — $title_escaped</a>
+              <span> $author_escaped</span>
               <a class='download' href=\"pdfs/$fname\" download>(Download PDF)</a>
             </div>" >> index.html
           done
@@ -59,7 +71,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add index.html
-          git commit -m "Auto-update publications list" || echo "No changes to commit"
-          git push
-          git commit -m "Auto-update publications list" || echo "No changes to commit"
+          git commit -m "Auto-update publications list from PDF metadata" || echo "No changes to commit"
           git push
