@@ -12,58 +12,46 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
 
       - name: Build index.html from PDFs
-        shell: bash
         run: |
-          # Start HTML file
-          cat << 'EOF' > index.html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>McWilliams Lab Publications</title>
-<style>
-body{font-family:sans-serif;margin:2rem;color:#333;line-height:1.6;}
-h1{font-size:2rem;margin-bottom:1rem;color:#2b4b80;}
-.pub-item{margin-bottom:1.2rem;}
-a{color:#0066cc;text-decoration:none;}
-a:hover{text-decoration:underline;}
-.download{margin-left:0.5rem;font-size:0.9rem;}
-footer{margin-top:3rem;font-size:0.8rem;color:#777;border-top:1px solid #eee;padding-top:1rem;}
-</style>
-</head>
-<body>
-<h1>McWilliams Lab Publications</h1>
-<p>Below are research papers and PDFs made publicly available by the McWilliams Lab. Click the title to view or download.</p>
-<div class='pub-list'>
-EOF
+          echo "<!DOCTYPE html>
+          <html lang='en'>
+          <head>
+            <meta charset='UTF-8'>
+            <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+            <title>McWilliams Lab Publications</title>
+            <style>
+              body { font-family: sans-serif; margin: 2rem; color: #333; line-height: 1.6; }
+              h1 { font-size: 2rem; margin-bottom: 1rem; color: #2b4b80; }
+              .pub-item { margin-bottom: 1.2rem; }
+              a { color: #0066cc; text-decoration: none; }
+              a:hover { text-decoration: underline; }
+              .download { margin-left: 0.5rem; font-size: 0.9rem; }
+              footer { margin-top: 3rem; font-size: 0.8rem; color: #777; border-top: 1px solid #eee; padding-top: 1rem; }
+            </style>
+          </head>
+          <body>
+            <h1>McWilliams Lab Publications</h1>
+            <p>Below are research papers and PDFs made publicly available by the McWilliams Lab. Click the title to view or download.</p>
+            <div class='pub-list'>" > index.html
 
-          # Loop safely over PDFs (handles spaces and special characters)
+          # Loop over PDFs safely
           shopt -s nullglob
           for f in pdfs/*.pdf; do
             fname=$(basename "$f")
-            
-            # Extract year (first 4-digit sequence)
-            year=$(echo "$fname" | grep -oE '[0-9]{4}' | head -n1)
-            if [ -z "$year" ]; then
-              year="Unknown Year"
-            fi
-
-            # Use full filename (minus .pdf) as title
+            year=$(echo "$fname" | grep -oE '[0-9]{4}' | head -n1 || echo "Unknown Year")
             title="${fname%.pdf}"
-
-            # Escape HTML special chars
-            title_escaped=$(echo "$title" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/"/\&quot;/g; s/'"'"'/\&#39;/g')
-
-            # Append entry
-            printf "<div class='pub-item'>\n  <a href='pdfs/%s' target='_blank'>%s — %s</a>\n  <a class='download' href='pdfs/%s' download>(Download PDF)</a>\n</div>\n" "$fname" "$year" "$title_escaped" "$fname" >> index.html
+            title_escaped=$(echo "$title" | sed 's/&/\&amp;/g; s/</\&lt;/g; s/>/\&gt;/g; s/\"/\&quot;/g; s/'"'"'/\&#39;/g')
+            echo "<div class='pub-item'>
+              <a href=\"pdfs/$fname\" target='_blank'>$year — $title_escaped</a>
+              <a class='download' href=\"pdfs/$fname\" download>(Download PDF)</a>
+            </div>" >> index.html
           done
 
-          # Finish HTML file
           echo "</div><footer>© 2025 McWilliams Lab — Licensed under CC BY-SA 4.0</footer></body></html>" >> index.html
 
       - name: Commit changes
@@ -71,5 +59,7 @@ EOF
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add index.html
+          git commit -m "Auto-update publications list" || echo "No changes to commit"
+          git push
           git commit -m "Auto-update publications list" || echo "No changes to commit"
           git push
