@@ -29,13 +29,49 @@ jobs:
             <meta name='viewport' content='width=device-width, initial-scale=1.0'>
             <title>McWilliams Lab Publications</title>
             <style>
-              body { font-family: sans-serif; margin: 2rem; color: #333; line-height: 1.6; }
-              h1 { font-size: 2rem; margin-bottom: 1rem; color: #2b4b80; }
-              .pub-item { margin-bottom: 1.2rem; }
-              a { color: #0066cc; text-decoration: none; }
-              a:hover { text-decoration: underline; }
-              .download { margin-left: 0.5rem; font-size: 0.9rem; }
-              footer { margin-top: 3rem; font-size: 0.8rem; color: #777; border-top: 1px solid #eee; padding-top: 1rem; }
+              body {
+                font-family: sans-serif;
+                margin: 2rem;
+                color: #333;
+                line-height: 1.6;
+                max-width: 900px;
+              }
+              h1 {
+                font-size: 2rem;
+                margin-bottom: 1rem;
+                color: #2b4b80;
+              }
+              .pub-item {
+                margin-bottom: 1.5rem;
+              }
+              a {
+                color: #0066cc;
+                text-decoration: none;
+                display: inline-block;
+                max-width: 100%;
+                white-space: normal;
+                word-wrap: break-word;
+              }
+              a:hover {
+                text-decoration: underline;
+              }
+              .author {
+                display: block;
+                margin-top: 0.2rem;
+                color: #555;
+                font-size: 0.95rem;
+              }
+              .download {
+                margin-left: 0.5rem;
+                font-size: 0.9rem;
+              }
+              footer {
+                margin-top: 3rem;
+                font-size: 0.8rem;
+                color: #777;
+                border-top: 1px solid #eee;
+                padding-top: 1rem;
+              }
             </style>
           </head>
           <body>
@@ -52,7 +88,7 @@ jobs:
 
             echo "<div class='pub-item'>
               <a href=\"pdfs/$file\" target='_blank'>$year — $title</a>
-              <span> $author</span>
+              <span class='author'>$author</span>
               <a class='download' href=\"pdfs/$file\" download>(Download PDF)</a>
             </div>" >> index.html
           done
