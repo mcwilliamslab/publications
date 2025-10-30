@@ -17,6 +17,21 @@
       margin-bottom: 1rem;
       color: #2b4b80;
     }
+    .controls {
+      margin-bottom: 1.5rem;
+    }
+    button {
+      background-color: #2b4b80;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+    button:hover {
+      background-color: #1f3660;
+    }
     .pub-item {
       margin-bottom: 1.5rem;
     }
@@ -53,10 +68,34 @@
 <body>
   <h1>McWilliams Lab Publications</h1>
   <p>Below are research papers and PDFs made publicly available by the McWilliams Lab. Click the title to view or download.</p>
-  <div class='pub-list'>
-<div class='pub-item'>
+
+  <div class='controls'>
+    <button id='sort-btn'>Sort by Year ↓</button>
+  </div>
+
+  <div class='pub-list' id='pub-list'>
+<div class='pub-item' data-year='2019'>
     <a href="pdfs/independenceday.pdf" target='_blank'>2019 — Independence day: Post-fledging movements and behavior of adult Eastern Towhees (Pipilo erythrophthalmus) in landscapes managed for American Woodcock (Scolopax minor)</a>
     <span class='author'>Brenner, S.J., S.R. McWilliams</span>
     <a class='download' href="pdfs/independenceday.pdf" download>(Download PDF)</a>
   </div>
-</div><footer>© 2025 McWilliams Lab — Licensed under CC BY-SA 4.0</footer></body></html>
+</div>
+<script>
+  const sortBtn = document.getElementById('sort-btn');
+  const pubList = document.getElementById('pub-list');
+  let descending = true;
+
+  sortBtn.addEventListener('click', () => {
+    const items = Array.from(pubList.querySelectorAll('.pub-item'));
+    items.sort((a, b) => {
+      const yearA = parseInt(a.dataset.year) || 0;
+      const yearB = parseInt(b.dataset.year) || 0;
+      return descending ? yearB - yearA : yearA - yearB;
+    });
+    items.forEach(item => pubList.appendChild(item));
+    descending = !descending;
+    sortBtn.textContent = descending ? 'Sort by Year ↓' : 'Sort by Year ↑';
+  });
+</script>
+<footer>© 2025 McWilliams Lab — Licensed under CC BY-SA 4.0</footer>
+</body></html>
