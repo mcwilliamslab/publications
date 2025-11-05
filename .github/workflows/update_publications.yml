@@ -82,6 +82,13 @@ jobs:
                 color: #555;
                 font-size: 0.95rem;
               }
+              .journal {
+                display: block;
+                margin-top: 0.1rem;
+                color: #777;
+                font-style: italic;
+                font-size: 0.9rem;
+              }
               .download {
                 margin-left: 0.5rem;
                 font-size: 0.9rem;
@@ -112,13 +119,15 @@ jobs:
             file=$(yq -r ".[$i].file" metadata.yml)
             title=$(yq -r ".[$i].title" metadata.yml)
             author=$(yq -r ".[$i].author" metadata.yml)
+            journal=$(yq -r ".[$i].journal" metadata.yml)
             year=$(yq -r ".[$i].year" metadata.yml)
 
-            echo "Adding: $year | $title | $file"
+            echo "Adding: $year | $title | $journal | $file"
 
             echo "<div class='pub-item' data-year='$year'>
               <a href=\"pdfs/$file\" target='_blank'>$year — $title</a>
               <span class='author'>$author</span>
+              <span class='journal'>$journal</span>
               <a class='download' href=\"pdfs/$file\" download>(Download PDF)</a>
             </div>" >> index.html
           done
@@ -150,5 +159,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add index.html
-          git commit -m "Rebuild publications page with year sort button" || echo "No changes to commit"
+          git commit -m "Rebuild publications page with journal info" || echo "No changes to commit"
           git push
