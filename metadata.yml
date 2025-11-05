@@ -1,4 +1,19 @@
-- file: Brenner and McWilliams 2019.pdf
+- file: Afik et al 1997.pdf
+  title: >
+    A test for passive absorption of glucose in Yellow-rumped Warblers and its ecological implications 
+  author: "Daniel Afik, Scott R. Mcwilliams, William H. Karasov"
+  journal: "Physiological Zoology"
+  year: 1997
+  
+- file: Aamidor et al 2011.pdf
+  title: >
+    During stopover, migrating Blackcaps adjust behavior and intake of food depending 
+    on the content of protein in their diets
+  author: "Sarah E. Aamidor, Ulf Bauchinger, Ortal Mizrahy, Scott R. McWilliams and Berry Pinshow"
+  journal: "Integrative and Comparative Biology"
+  year: 2011
+  
+  - file: Brenner and McWilliams 2019.pdf
   title: >
     Independence day: Post-fledging movements and behavior of adult Eastern Towhees
     (Pipilo erythrophthalmus) in landscapes managed for American Woodcock
@@ -16,10 +31,4 @@
   journal: "Journal of Wildlife Management"
   year: 2025
 
-- file: Aamidor et al 2011.pdf
-  title: >
-    During stopover, migrating Blackcaps adjust behavior and intake of food depending 
-    on the content of protein in their diets
-  author: "Aamidor, S.E., U. Bauchinger, O. Mizrahy, S. R. McWilliams and B. Pinshow"
-  journal: "Integrative and Comparative Biology"
-  year: 2011
+
