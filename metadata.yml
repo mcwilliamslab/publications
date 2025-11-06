@@ -12,6 +12,13 @@
   journal: "Physiological and Biochemical Zoology"
   year: 2009
 
+- file: Blomgberg et al 2009.pdf
+  title: >
+    Predicting landscape-scale habitat distribution for ruffed grouse (Bonasa umbellus) using presence-only data
+  author: "Erik J. Blomberg, Brian C. Tefft, Erik G. Endrulat and Scott R. McWilliams"
+  journal: "Wildlife Biology"
+  year: 2009
+
 - file: Bauchinger and McWilliams 2010.pdf
   title: >
     Extent of phenotypic flexibility during long-distance flight is determined by tissue-specific turnover rates: A new hypothesis
@@ -68,6 +75,13 @@
   journal: "The Comparative Physiology of Fasting and Starvation"
   year: 2012
 
+- file: Blomgberg et al 2012.pdf
+  title: >
+    Evaluating spatially explicit viability of a declining Ruffed Grouse population
+  author: "Erik J. Blomberg, Brian C. Tefft, J. Michael Reed and Scott R. McWilliams"
+  journal: "The Jounral of Wildlife Management"
+  year: 2012
+
 - file: Alan and McWilliams 2013.pdf
   title: >
     Oxidative stress, circulating antioxidants, and dietary preferences in songbirds
@@ -88,22 +102,64 @@
   author: "Miriam Ben-Hamo, Marshall D. McCue,  Inna Khozin-Goldberg, Scott R. McWilliams and Berry Pinshow"
   journal: "Comparative Biochemistry and Physiology, Part A"
   year: 2013
+
+- file: Beuth et al 2016.pdf
+  title: >
+    Body composition dynamics of Common Eider during winter: An application of the deuterium dilution method
+  author: "Joshua M. Beuth, Peter W. C. Paton, Jason E. Osenkowski and Scott R. McWilliams"
+  journal: "Wildlife Society Bulletin"
+  year: 2016
+
+- file: Beuth et al 2016b.pdf
+  title: >
+    Validating the deuterium dilution method to measure body composition of Common Eider
+  author: "Joshua M. Beuth, Peter W. C. Paton, Jason E. Osenkowski and Scott R. McWilliams"
+  journal: "Wildlife Society Bulletin"
+  year: 2016
+
+- file: Beuth et al 2017.pdf
+  title: >
+    Habitat use and movements of Common Eiders wintering in southern New England
+  author: "Joshua M. Beuth, Scott R. McWilliams, Peter W. C. Paton and Jason E. Osenkowski"
+  journal: "The Journal of Wildlife Management"
+  year: 2017
   
 - file: Brenner and McWilliams 2019.pdf
   title: >
     Independence day: Post-fledging movements and behavior of adult Eastern Towhees
     (Pipilo erythrophthalmus) in landscapes managed for American Woodcock
     (Scolopax minor)
-  author: "Brenner, S. J., and S. R. McWilliams"
+  author: "Stephen J. Brenner and Scott R. McWilliams"
   journal: "The Wilson Journal of Ornithology"
   year: 2019
+
+- file: Bianchini et al 2023.pdf
+  title: >
+    Evaluation of breeding distribution and chronology of North American scoters
+  author: "Kristin Bianchini, Scott G. Gilliland, Alicia M. Berlin, Timothy D. Bowman, W. Sean Boyd, Susan E. W. De La Cruz, Daniel Esler, Joseph R. Evenson, Paul L. Flint, Christine Lepage, Scott R. McWilliams, Dustin E. Meattey, Jason E. Osenkowski, Matthew C. Perry, Jean-François Poulin, Eric T. Reed, Christian Roy, Jean-Pierre L. Savard, Lucas Savoy, Jason L. Schamber, Caleb S. Spiegel, John Takekawa, David H. Ward and Mark L. Mallory"
+  journal: "Wildlife Biology"
+  year: 2023
+
+- file: Blomgberg et al 2023.pdf
+  title: >
+    The American Woodcock Singing Ground Survey largely conforms to the phenology of male woodcock migration
+  author: "Erik J. Blomberg, Alexander C. Fish, Liam A. Berigan, Amber M. Roth, Rebecca Rau, Sarah J. Clements, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Clayton L. Graham, William Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, Colby Slezak, Josh Stiller, Mathieu Tetreault, Lisa Williams"
+  journal: "The Journal of Wildlife Management"
+  year: 2023
+
+- file: Berigan et al 2025.pdf
+  title: >
+    Low migratory flight altitudes may explain increased collision risk for *Scolopax minor* (American Woodcock)
+  author: "Liam Berigan, Sarah Clements, Rachel Darling, Alexander Fish, Amber Roth, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Kayleigh Filkins, Clayton Graham, William Harvey, Michael Hook, Douglas Howell, Seth Maddox, Scott R. McWilliams, Shawn Meyer, Theodore Nichols, J. Bruce Pollard, Christian Roy, David Sausville, Colby Slezak, Josh Stiller, Jacob Straub, Mathieu Tetreault, Dawn Washington, Lisa Williams, and Erik Blomberg"
+  journal: "Ornithological Applications"
+  year: 2025
 
 - file: Gray et al 2025.pdf
   title: >
     Under the umbrella: Does management for
     American woodcock increase reproductive
     success of a declining songbird?
-  author: "Gray, M. E., L. S. Corcoran, and S. R. McWilliams"
+  author: "Megan E. Gray, Liam S. Corcoran, and Scott R. McWilliams"
   journal: "Journal of Wildlife Management"
   year: 2025
 
