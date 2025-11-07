@@ -5,6 +5,20 @@
   journal: "Physiological Zoology"
   year: 1997
 
+- file: ELS Vert Nutrition 2002.pdf
+  title: >
+    Ecology of vertebrate nutrition
+  author: "Scott R. McWilliams"
+  journal: "Encyclopedia of Life Sciences"
+  year: 2002
+
+- file: Endrulat et al 2005.pdf
+  title: >
+    Habitat selection and home range size of Ruffed Grouse in Rhode Island
+  author: "Scott R. McWilliams"
+  journal: "Northeastern Naturalist"
+  year: 2005
+
 - file: Bauchinger and McWilliams 2009.pdf
   title: >
     Carbon turnover in tissues of a passerine bird: Allometry, isotopic clocks, and phenotypic flexibilty in organ size
@@ -250,11 +264,25 @@
   journal: "Physiological and Biochemical Zoology"
   year: 2019
 
+- file: Ferretti et al 2019.pdf
+  title: >
+    Sleeping unsafely tucked in to conserve energy in a nocturnal migratory songbird
+  author: "Andrea Ferretti, Niels C. Rattenborg, Thomas Ruf, Scott R. McWilliams, Massimiliano Cardinale, Leonida Fusani"
+  journal: "Current Biology"
+  year: 2019
+
 - file: Carter et al 2020.pdf
   title: >
-    The effects of dietary linoleic acid and hydrophilic antioxidants on basal, peak, and sustained metabolism in flight-trained European starlings
+    The effects of dietary linoleic acid and hydrophilic antioxidants on basal, peak, and sustained metabolism in flight-trained European Starlings
   author: "Wales A. Carter, Kristen J. DeMoranville, Barbara J. Pierce, and Scott R. McWilliams"
   journal: "Ecology and Evolution"
+  year: 2020
+
+- file: Ferretti et al 2020.pdf
+  title: >
+    Energy stores, oxidative balance, and sleep in migratory Garden Warblers (Sylvia borin) and Whitethroats (Sylvia communis) at a spring stopover site
+  author: "Andrea Ferretti, Scott R. McWilliams, Niels C. Rattenborg, Ivan Maggini, Massimiliano Cardinale and Leonida Fusani"
+  journal: "Integrative Organismal Biology"
   year: 2020
 
 - file: Buffum et al 2021.pdf
@@ -316,8 +344,15 @@
 - file: Clements et al 2024.pdf
   title: >
     Satellite tracking of American Woodcock reveals a gradient of migration strategies
-  author: "Sarah J. Clements, Liam A. Berigan, Alexander C. Fish, Rachel L. Darling, Amber M. Roth, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Kayleigh Filkins, Clayton L. Graham, William Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, David Sausville, Colby Slezak, Josh Stiller, Jacob Straub, Mathieu Tetreault, Dawn Washington, Lisa Williams, and Erik J. Blomberg,"
+  author: "Sarah J. Clements, Liam A. Berigan, Alexander C. Fish, Rachel L. Darling, Amber M. Roth, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Kayleigh Filkins, Clayton L. Graham, William Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, David Sausville, Colby Slezak, Josh Stiller, Jacob Straub, Mathieu Tetreault, Dawn Washington, Lisa Williams, and Erik J. Blomberg"
   journal: "Ornithology"
+  year: 2024
+
+- file: Fish et al 2024.pdf
+  title: >
+    American woodcock migration phenology in eastern North America: implications for hunting season timing
+  author: "Alexander C. Fish, Amber M. Roth, Greg Balkcom,  Liam Berigan, Kylie Brunette, Sarah Clements, Gary Costanzo, Clayton L. Graham, William F. Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, Josh Stiller, Dawn Washington, Lisa Williams, Erik J. Blomberg"
+  journal: "Journal of Wildlife Management"
   year: 2024
 
 - file: Berigan et al 2025.pdf
@@ -332,6 +367,13 @@
     Eastern Whip-poor-will (Antrostomus vociferus) nesting ecology: behavior of nesting adults and chick growth
   author: "Liam S. Corcoran, Megan E. Gray, and Scott R. McWilliams"
   journal: "The Wilson Journal of Ornithology"
+  year: 2025
+
+- file: Finn et al 2025.pdf
+  title: >
+    Plant constituent predictors in the winter diet selection of the imperiled New England Cottontail (Sylvilagus transitionalis)
+  author: "Wendy C. Finn, Thomas J. McGreevy Jr, , Brian C. Tefft, Thomas P. Husband, Wales A. Carter, and Scott R. McWilliams"
+  journal: "Journal of Mammalogy"
   year: 2025
 
 - file: Gray et al 2025.pdf
