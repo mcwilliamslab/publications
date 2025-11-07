@@ -211,8 +211,15 @@
 - file: Gormezano et al 2016.pdf
   title: >
     Costs of locomotion in polar bears: when do the costs outweigh the benefits of chasing down terrestrial prey?
-  author: "Linda J. Gormezano, Scott R. McWilliams, David T. Iles and Robert F. Rockwell,"
+  author: "Linda J. Gormezano, Scott R. McWilliams, David T. Iles and Robert F. Rockwell"
   journal: "Conservation Physiology"
+  year: 2016
+
+- file: Kohl et al 2016.pdf
+  title: >
+    Modulation of digestive enzyme activities in the avian digestive tract in relation to diet composition and quality
+  author: "Kevin D. Kohl, M. Eugenia Ciminari, Juan G. Chediack, James O. Leafloor, William H. Karasov, Scott R. McWilliams, and Enrique Caviedes‑Vidal"
+  journal: "Journal of Comparative Physiology"
   year: 2016
 
 - file: Beuth et al 2017.pdf
