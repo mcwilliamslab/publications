@@ -12,6 +12,13 @@
   journal: "Encyclopedia of Life Sciences"
   year: 2002
 
+- file: Frazier and McWilliams 2002.pdf
+  title: >
+    Determinants of dietary preference in Yellow-rumped Warblers
+  author: "Kim I. Frazer and Scott R. McWilliams"
+  journal: "Wilson Bulletin"
+  year: 2002
+
 - file: Endrulat et al 2005.pdf
   title: >
     Habitat selection and home range size of Ruffed Grouse in Rhode Island
@@ -138,6 +145,13 @@
   journal: "The Wilson Journal of Ornithology"
   year: 2013
 
+- file: Hall et al 2013.pdf
+  title: >
+    Site-specific regulation of adult neurogenesis by dietary fatty acid content, vitamin E and flight exercise in European Starlings
+  author: "Zachary J. Hall, Ulf Bauchinger, Alexander R. Gerson, Edwin R. Price, Lillie A. Langlois, Michelle Boyles, Barbara Pierce, Scott R. McWilliams, David F. Sherry1, and Scott A. MacDougall-Shackleton"
+  journal: "European Journal of Neuroscience"
+  year: 2013
+
 - file: Buffum et al 2014.pdf
   title: >
     Encouraging family forest owners to create early successional wildlife habitat in southern New England
@@ -185,6 +199,13 @@
     Niche shifts and energetic condition of songbirds in response to phenology of food-resource availability in a high elevation sagebrush ecosystem
   author: "Kyle A. Cutting, Michelle L. Anderson, Erik A. Beever, Sean R. Schroff, Eric Klaphake, Nathan Korb, and Scott McWilliams"
   journal: "Ornithological Advances"
+  year: 2016
+
+- file: Gormezano et al 2016.pdf
+  title: >
+    Costs of locomotion in polar bears: when do the costs outweigh the benefits of chasing down terrestrial prey?
+  author: "Linda J. Gormezano, Scott R. McWilliams, David T. Iles and Robert F. Rockwell,"
+  journal: "Conservation Physiology"
   year: 2016
 
 - file: Beuth et al 2017.pdf
@@ -313,6 +334,48 @@
   journal: "Conservation Science and Practice"
   year: 2021
 
+- file: Frawley et al 2021.pdf
+  title: >
+    Flight training and dietary antioxidants have mixed effects on the oxidative status of multiple tissues in a female migratory songbird
+  author: "Abigail E. Frawley, Kristen J. DeMoranville, Katherine M. Carbeck, Lisa Trost, Amadeusz Bryła, Maciej Działo, Edyta T. Sadowska, Ulf Bauchinger, Barbara J. Pierce and Scott R. McWilliams"
+  journal: "Journal of Experimental Biology"
+  year: 2021
+
+- file: Frawley et al 2021b.pdf
+  title: >
+    Season, anthocyanin supplementation, and flight training have mixed effects on the antioxidant system of migratory European Starlings
+  author: "Abigail E. Frawley, Kristen J. DeMoranville, Katherine M. Carbeck, Lisa Trost, Amadeusz Bryła, Maciej Działo, Edyta T. Sadowska, Ulf Bauchinger, Barbara J. Pierce, and Scott R. McWilliams"
+  journal: "Ornithology"
+  year: 2021
+
+- file: Graham and McWilliams 2021.pdf
+  title: >
+    Body composition of American Woodcock during fall staging: a validation of the non‑invasive deuterium dilution method
+  author: "Clayton L. Graham and Scott R. McWilliams"
+  journal: "Journal of Ornithology"
+  year: 2021
+
+- file: Harrington et al 2021.pdf
+  title: >
+    Training graduate students in multiple genres of public and academic science writing: An assessment using an adaptable, interdisciplinary rubric
+  author: "Erin R. Harrington, Ingrid E. Lofgren, Caroline Gottschalk Druschke, Nancy E. Karraker, Nedra Reynolds, and Scott R. McWilliams"
+  journal: "Frontiers in Environmental Science"
+  year: 2021
+
+- file: Grady et al 2022.pdf
+  title: >
+     Defining a flexible notion of "good" STEM writing across context: Lessons learned from a cross-institutial conversation
+  author: "Sara M. Grady, Jenna Morton-Aiken, Caroline Gottschalk Druschke, Ingrid E. Lofgren, Nancy E. Karraker, Scott R. McWilliams, Nedra Reynolds, Elaine Finan, Patti L. Wolter, Donna R. Leff, and Michael Kennedy"
+  journal: "Frontiers in Communication"
+  year: 2022
+
+- file: Graham et al 2022.pdf
+  title: >
+    Cross-seasonal effects in the American Woodcock: Conditions prior to fall migration relate to migration strategy and implications for conservation
+  author: "Clayton L. Graham, Tanner Steeves, and Scott R. McWilliams"
+  journal: "Ornithological Applications"
+  year: 2022
+
 - file: Bianchini et al 2023.pdf
   title: >
     Evaluation of breeding distribution and chronology of North American scoters
@@ -353,6 +416,13 @@
     American woodcock migration phenology in eastern North America: implications for hunting season timing
   author: "Alexander C. Fish, Amber M. Roth, Greg Balkcom,  Liam Berigan, Kylie Brunette, Sarah Clements, Gary Costanzo, Clayton L. Graham, William F. Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, Josh Stiller, Dawn Washington, Lisa Williams, Erik J. Blomberg"
   journal: "Journal of Wildlife Management"
+  year: 2024
+
+- file: Harrington et al 2024.pdf
+  title: >
+    A new approach for increasing graduate students’ science communication capacity and confidence
+  author: "Erin R. Harrington, Scott R. McWilliams, Nancy E. Karraker, Caroline Gottschalk Druschke, Jenna Morton-Aiken, Elaine Finan, and Ingrid E. Lofgren"
+  journal: "Peer J"
   year: 2024
 
 - file: Berigan et al 2025.pdf
