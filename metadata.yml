@@ -145,6 +145,13 @@
   journal: "Current Trends in Forest Research"
   year: 2017
 
+- file: Cohen et al 2017.pdf
+  title: >
+    How do en route events around the Gulf of Mexico influence migratory landbird populations?
+  author: "Emily B. Cohen, Wylie C. Barrow, Jr., Jeffrey J. Buler, Jill L. Deppe, Andrew Farnsworth, Peter P. Marra, Scott R. McWilliams, David W. Mehlman, R. Randy Wilson, Mark S. Woodrey, and Frank R. Moore"
+  journal: "Ornithological Applications"
+  year: 2017
+
 - file: Carter et al 2018.pdf
   title: >
     Turnover of muscle lipids and response to exercise differ between neutral and polar fractions in a model songbird, the zebra finch
@@ -162,6 +169,13 @@
   year: 2019
 
 - file: Brenner et al 2019.pdf
+  title: >
+    Landscape context matters when American Woodcock select singing grounds: Results from a reciprocal transplant experiment
+  author: "Stephen J. Brenner, Brian C. Tefft, and Scott R. McWilliams"
+  journal: "Ornithological Applications"
+  year: 2019
+
+- file: Brenner et al 2019b.pdf
   title: >
     Observations of certain breeding behaviors in a bilateral gynandromorph Eastern Towhee (Pipilo erythrophthalmus)
   author: "Stephen J. Brenner, Olivia A. DaRugna, and Scott R. McWilliams"
@@ -216,6 +230,20 @@
   author: "Erik J. Blomberg, Alexander C. Fish, Liam A. Berigan, Amber M. Roth, Rebecca Rau, Sarah J. Clements, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Clayton L. Graham, William Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, Colby Slezak, Josh Stiller, Mathieu Tetreault, and Lisa Williams"
   journal: "The Journal of Wildlife Management"
   year: 2023
+
+- file: Casagrande et al 2023.pdf
+  title: >
+    Mitochondrial metabolism in blood more reliably predicts whole-animal energy needs compared to other tissues
+  author: "Stefania Casagrande, Maciej Dzialo, Lisa Trost, Kasja Malkoc, Edyta Teresa, Michaela Hau, Barbara Pierce, Scott McWilliams, and Ulf Bauchinger"
+  journal: "iScience"
+  year: 2023
+
+- file: Clements et al 2024.pdf
+  title: >
+    Satellite tracking of American Woodcock reveals a gradient of migration strategies
+  author: "Sarah J. Clements, Liam A. Berigan, Alexander C. Fish, Rachel L. Darling, Amber M. Roth, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Kayleigh Filkins, Clayton L. Graham, William Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, David Sausville, Colby Slezak, Josh Stiller, Jacob Straub, Mathieu Tetreault, Dawn Washington, Lisa Williams, and Erik J. Blomberg,"
+  journal: "Ornithology"
+  year: 2024
 
 - file: Berigan et al 2025.pdf
   title: >
