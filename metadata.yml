@@ -19,6 +19,13 @@
   journal: "Wildlife Biology"
   year: 2009
 
+- file: DesRochers et al 2009.pdf
+  title: >
+    Macronutrient profiles of wetland plants consumed by the Hawaiian Moorhen (Gallinula Chloropus Sandvivensis)
+  author: "David W. DesRochers, Scott R. McWilliams, Michael D. Silbernagle, and J. Michael Reed"
+  journal: "Wetlands"
+  year: 2009
+
 - file: Bauchinger and McWilliams 2010.pdf
   title: >
     Extent of phenotypic flexibility during long-distance flight is determined by tissue-specific turnover rates: A new hypothesis
@@ -46,6 +53,13 @@
   author: "Miriam Ben-Hamo, Marshall D. McCue, Scott R. McWilliams, and Berry Pinshow"
   journal: "Journal of Comparative Physiology B"
   year: 2011
+
+- file: DesRochers et al 2010.pdf
+  title: >
+    Evaluating if energy and protein limit abundance of Hawaiian Moorhen
+  author: "David W. DesRochers, Scott R. McWilliams, and J. Michael Reed"
+  journal: "Journal of Wildlife Management"
+  year: 2010
 
 - file: Aamidor et al 2011.pdf
   title: >
@@ -79,7 +93,7 @@
   title: >
     Evaluating spatially explicit viability of a declining Ruffed Grouse population
   author: "Erik J. Blomberg, Brian C. Tefft, J. Michael Reed, and Scott R. McWilliams"
-  journal: "The Jounral of Wildlife Management"
+  journal: "The Journal of Wildlife Management"
   year: 2012
 
 - file: Alan and McWilliams 2013.pdf
@@ -117,6 +131,20 @@
   journal: "PLOS One"
   year: 2014
 
+- file: Coluccy et al 2014.pdf
+  title: >
+    True metabolizable energy of American Black Duck foods
+  author: "John M. Coluccy, Michael V. Castelli, Paul M. Castelli, John W. Simpson, Scott R. McWilliams, and Llwellyn Armstrong"
+  journal: "The Journal of Wildlife Management"
+  year: 2014
+
+- file: Coon et al 2014.pdf
+  title: >
+    Introduced and native congeners use different resource allocation strategies to maintain performance during infection
+  author: "Courtney A. C. Coon, Amber J. Brace, Scott R. McWilliams, Marshall D. McCue, and Lynn B. Martin"
+  journal: "Division of Comparative Physiology and Biochemistry, Society for Integrative and Comparative Biology"
+  year: 2014
+
 - file: Beuth et al 2016.pdf
   title: >
     Body composition dynamics of Common Eider during winter: An application of the deuterium dilution method
@@ -129,6 +157,20 @@
     Validating the deuterium dilution method to measure body composition of Common Eider
   author: "Joshua M. Beuth, Peter W. C. Paton, Jason E. Osenkowski, and Scott R. McWilliams"
   journal: "Wildlife Society Bulletin"
+  year: 2016
+
+- file: Cooper-Mullin and McWilliams 2016.pdf
+  title: >
+    The role of the antioxidant system during intense endurance exercise: lessons from migrating birds
+  author: "Clara Cooper-Mullin and Scott R. McWilliams"
+  journal: "Journal of Experimental Biology"
+  year: 2016
+
+- file: Cutting et al 2016.pdf
+  title: >
+    Niche shifts and energetic condition of songbirds in response to phenology of food-resource availability in a high elevation sagebrush ecosystem
+  author: "Kyle A. Cutting, Michelle L. Anderson, Erik A. Beever, Sean R. Schroff, Eric Klaphake, Nathan Korb, and Scott McWilliams"
+  journal: "Ornithological Advances"
   year: 2016
 
 - file: Beuth et al 2017.pdf
@@ -156,14 +198,19 @@
   title: >
     Turnover of muscle lipids and response to exercise differ between neutral and polar fractions in a model songbird, the zebra finch
   author: "Wales A. Carter, Clara Cooper-Mullin and Scott R. McWilliams"
-  journal: "The Company of Biologists"
+  journal: "Journal of Experimental Biology"
+  year: 2018
+
+- file: Druschke et al 2018.pdf
+  title: >
+    Better science through rhetoric: A new model and pilot program for training graduate student science writers
+  author: "Caroline Gottschalk Druschke, Nedra Reynolds, Jenna Morton-Aiken, Ingrid E. Lofgren, Nancy E. Karraker, and Scott R. McWilliams"
+  journal: "Technical Communication Quarterly"
   year: 2018
   
 - file: Brenner and McWilliams 2019.pdf
   title: >
-    Independence day: Post-fledging movements and behavior of adult Eastern Towhees
-    (Pipilo erythrophthalmus) in landscapes managed for American Woodcock
-    (Scolopax minor)
+    Independence day: Post-fledging movements and behavior of adult Eastern Towhees (Pipilo erythrophthalmus) in landscapes managed for American Woodcock (Scolopax minor)
   author: "Stephen J. Brenner and Scott R. McWilliams"
   journal: "The Wilson Journal of Ornithology"
   year: 2019
@@ -217,6 +264,27 @@
   journal: "Northeastern Naturalist"
   year: 2021
 
+- file: Cooper-Mullin et al 2021.pdf
+  title: >
+    Dietary vitamin E reaches the mitochondria in the flight muscle of zebra finches but only if they exercise
+  author: "Clara Cooper-Mullin, Wales A. Carter, Ronald S. Amato, David Podlesak, and Scott R. McWilliams"
+  journal: "PLOS One"
+  year: 2021
+
+- file: DeMoranville et al 2021.pdf
+  title: >
+    Flight and dietary antioxidants influence antioxidant expression and activity in a migratory bird
+  author: "Kristen J. DeMoranville, Wales A. Carter, Barbara J. Pierce, and Scott R. McWilliams"
+  journal: "Integrative Organismal Biology"
+  year: 2021
+
+- file: Druschke et al 2021.pdf
+  title: >
+    A low-investment, high-impact approach for training stronger and more confident graduate student science writers
+  author: "Caroline Gottschalk Druschke, Nancy Karraker, Scott R. McWilliams, Al Scott, Jenna Morton-Aiken, Nedra Reynolds, Elaine Finan, Ingrid E. Lofgren"
+  journal: "Conservation Science and Practice"
+  year: 2021
+
 - file: Bianchini et al 2023.pdf
   title: >
     Evaluation of breeding distribution and chronology of North American scoters
@@ -238,6 +306,13 @@
   journal: "iScience"
   year: 2023
 
+- file: Dzialo et al 2023.pdf
+  title: >
+    Concerted phenotypic flexibility of avian erythrocyte size and number in response to dietary anthocyanin supplementation
+  author: "Maciej Dzialo, Amadeusz Bryła, Kristen J. DeMoranville, Katherine M. Carbeck, Olivia Fatica, Lisa Trost, Barbara Pierce, Edyta T. Sadowska, Scott R. McWilliams, and Ulf Bauchinger"
+  journal: "Frontiers in Zoology"
+  year: 2023
+
 - file: Clements et al 2024.pdf
   title: >
     Satellite tracking of American Woodcock reveals a gradient of migration strategies
@@ -252,11 +327,16 @@
   journal: "Ornithological Applications"
   year: 2025
 
+- file: Corcoran et al 2025.pdf
+  title: >
+    Eastern Whip-poor-will (Antrostomus vociferus) nesting ecology: behavior of nesting adults and chick growth
+  author: "Liam S. Corcoran, Megan E. Gray, and Scott R. McWilliams"
+  journal: "The Wilson Journal of Ornithology"
+  year: 2025
+
 - file: Gray et al 2025.pdf
   title: >
-    Under the umbrella: Does management for
-    American woodcock increase reproductive
-    success of a declining songbird?
+    Under the umbrella: Does management for American woodcock increase reproductive success of a declining songbird?
   author: "Megan E. Gray, Liam S. Corcoran, and Scott R. McWilliams"
   journal: "Journal of Wildlife Management"
   year: 2025
