@@ -54,6 +54,13 @@
   journal: "Wetlands"
   year: 2009
 
+- file: McCue et al 2009.pdf
+  title: >
+    Effect of dietary fatty acid composition on fatty acid profiles of polar and neutral lipid tissue fractions in zebra finches, Taeniopygia guttata
+  author: "Marshall D. McCue, Oren Amitai, Inna Khozin-Goldberg, Scott R. McWilliams, Berry Pinshowa"
+  journal: "Comparative Biochemistry and Physiology, Part A"
+  year: 2009
+
 - file: Bauchinger and McWilliams 2010.pdf
   title: >
     Extent of phenotypic flexibility during long-distance flight is determined by tissue-specific turnover rates: A new hypothesis
@@ -75,11 +82,25 @@
   journal: "Comparative Biochemistry and Physiology, Part A"
   year: 2010
 
+- file: DesRochers et al 2010.pdf
+  title: >
+    Evaluating if energy and protein limit abundance of Hawaiian Moorhen
+  author: "David W. DesRochers, Scott R. McWilliams, and J. Michael Reed"
+  journal: "Journal of Wildlife Management"
+  year: 2010
+
 - file: Langlois and McWilliams 2010.pdf
   title: >
     Protein requirements of an omnivorous and granivorous songbird decrease during migration
   author: "Lillie A. Langlois and Scott R. McWilliams"
   journal: "The Auk"
+  year: 2010
+
+- file: McCue et al 2010.pdf
+  title: >
+    Tracking the oxidative kinetics of carbohydrates, amino acids and fatty acids in the house sparrow using exhaled 13CO2
+  author: "Marshall D. McCue, Orit Sivan, Scott R. McWilliams and Berry Pinshow"
+  journal: "The Journal of Experimental Biology"
   year: 2010
 
 - file: Ben-Hamo et al 2011.pdf
@@ -95,13 +116,6 @@
   author: "Zachary S. Ladin, Paul M. Castelli, Scott R. McWilliams, Christopher K. Williams"
   journal: "Journal of Wildlife Management"
   year: 2011
-
-- file: DesRochers et al 2010.pdf
-  title: >
-    Evaluating if energy and protein limit abundance of Hawaiian Moorhen
-  author: "David W. DesRochers, Scott R. McWilliams, and J. Michael Reed"
-  journal: "Journal of Wildlife Management"
-  year: 2010
 
 - file: Aamidor et al 2011.pdf
   title: >
@@ -122,6 +136,20 @@
     Flight muscle shape reliably predicts flight muscle mass of migratory songbirds: a new tool for field ornithologists
   author: "Ulf Bauchinger, Scott R. McWilliams, Harold Kolb, Vladimir M. Popenko, Edwin R. Price, and Herbert Biebach"
   journal: "Journal of Ornithology"
+  year: 2011
+
+- file: McCue et al 2011b.pdf
+  title: >
+    Ontogeny and nutritional status influence oxidative kinetics of nutrients and whole-animal bioenergetics in Zebra Finches, Taeniopygia guttata: New applications for 13C breath testing
+  author: "Marshall D. McCue, Scott R. McWilliams and Berry Pinshow"
+  journal: "Physiological and Biochemical Zoology"
+  year: 2011
+
+- file: McCue et al 2011.pdf
+  title: >
+    A mass balance approach to identify and compare differential routing of 13C-labeled carbohydrates, lipids, and proteins in vivo
+  author: "Marshall D. McCue, Adam Smith, Richard McKinney, Boris Rewald, Berry Pinshow, and Scott R. McWilliams"
+  journal: "Physiological and Biochemical Zoology"
   year: 2011
 
 - file: Bauchinger and McWilliams 2012.pdf
@@ -180,6 +208,13 @@
   journal: "Waterbirds"
   year: 2013
 
+- file: Masse et al 2013.pdf
+  title: >
+    Why woodcock commute: testing the foraging-benefit and predation-risk hypotheses 
+  author: "Roger J. Masse, Brian C. Tefft, José A. Amador, and Scott R. McWilliams"
+  journal: "Behavioral Ecology"
+  year: 2013
+
 - file: Buffum et al 2014.pdf
   title: >
     Encouraging family forest owners to create early successional wildlife habitat in southern New England
@@ -214,6 +249,13 @@
   author: "Pamela H. Loring, Peter W. C. Paton, Jason E. Osenkowski, Scott G. Gilliland, Jean-Pierre L. Savard, and Scott R. McWilliams"
   journal: "The Journal of Wildlife Management"
   year: 2014
+
+- file: Masse et al 2015.pdf
+  title: >
+    Higher bird abundance and diversity where American Woodcock sing: Fringe benefits of managing forests for woodcock 
+  author: "Roger J. Masse, Brian C. Tefft, and Scott R. McWilliams"
+  journal: "The Journal of Wildlife Management"
+  year: 2015
 
 - file: Beuth et al 2016.pdf
   title: >
@@ -346,6 +388,13 @@
     Spatially explicit network analysis reveals multi-species annual cycle movement patterns of sea ducks
   author: "Juliet S. Lamb, Peter W. C. Paton, Jason E. Osenkowski, Shannon S. Badzinski, Alicia M. Berlin, Tim Bowman, Chris Dwyer, Luke J. Fara, Scott G. Gilliland, Keven Kenow, Christine Lepage, Mark L. Mallory, Glenn H. Olsen, Matthew C. Perry, Scott A. Petrie, Jean-Pierre L. Savard, Lucas Savoy, Michael Schummer, Caleb S. Spiegel, and Scott R. McWilliams"
   journal: "Ecological Applications"
+  year: 2019
+
+- file: Masse et al 2019.pdf
+  title: >
+    Habitat selection of American Woodcock and its implications for habitat management where young yorests are rare
+  author: "Roger J. Masse, Brian C. Tefft, Bill Buffum, and Scott R. McWilliams"
+  journal: "Proceedings of the American Woodcock Symposium"
   year: 2019
 
 - file: Carter et al 2020.pdf
