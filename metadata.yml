@@ -75,11 +75,25 @@
   journal: "Comparative Biochemistry and Physiology, Part A"
   year: 2010
 
+- file: Langlois and McWilliams 2010.pdf
+  title: >
+    Protein requirements of an omnivorous and granivorous songbird decrease during migration
+  author: "Lillie A. Langlois and Scott R. McWilliams"
+  journal: "The Auk"
+  year: 2010
+
 - file: Ben-Hamo et al 2011.pdf
   title: >
     Dietary fatty acid composition influences tissue lipid profiles and regulation of body temperature in Japanese quail
   author: "Miriam Ben-Hamo, Marshall D. McCue, Scott R. McWilliams, and Berry Pinshow"
   journal: "Journal of Comparative Physiology B"
+  year: 2011
+
+- file: Ladin et al 2011.pdf
+  title: >
+    Time energy budgets and food use of Atlantic Brant across their wintering range
+  author: "Zachary S. Ladin, Paul M. Castelli, Scott R. McWilliams, Christopher K. Williams"
+  journal: "Journal of Wildlife Management"
   year: 2011
 
 - file: DesRochers et al 2010.pdf
@@ -159,6 +173,13 @@
   journal: "European Journal of Neuroscience"
   year: 2013
 
+- file: Loring et al 2013.pdf
+  title: >
+    Densities of wintering scoters in relation to benthic prey assemblages in a North Atlantic estuary
+  author: "Pamela H. Loring, Peter W. C. Paton, Scott R. McWilliams, Richard A. McKinney, and Candace A. Oviatt"
+  journal: "Waterbirds"
+  year: 2013
+
 - file: Buffum et al 2014.pdf
   title: >
     Encouraging family forest owners to create early successional wildlife habitat in southern New England
@@ -178,6 +199,20 @@
     Introduced and native congeners use different resource allocation strategies to maintain performance during infection
   author: "Courtney A. C. Coon, Amber J. Brace, Scott R. McWilliams, Marshall D. McCue, and Lynn B. Martin"
   journal: "Division of Comparative Physiology and Biochemistry, Society for Integrative and Comparative Biology"
+  year: 2014
+
+- file: Ladin et al 2014.pdf
+  title: >
+    Regional and intraseasonal variation in diet of wintering and staging Atlantic Brant
+  author: "Zachary S. Ladin, Christopher K. Williams, Paul M. Castelli, Kristopher J. Winiarski, Jay Osenkowski and Scott R. McWilliams"
+  journal: "Journal of Wildlife Management"
+  year: 2014
+
+- file: Loring et al 2014.pdf
+  title: >
+    Habitat use and selection of Black Scoters in southern New England and siting of offshore wind energy facilities
+  author: "Pamela H. Loring, Peter W. C. Paton, Jason E. Osenkowski, Scott G. Gilliland, Jean-Pierre L. Savard, and Scott R. McWilliams"
+  journal: "The Journal of Wildlife Management"
   year: 2014
 
 - file: Beuth et al 2016.pdf
@@ -306,6 +341,13 @@
   journal: "Current Biology"
   year: 2019
 
+- file: Lamb et al 2019.pdf
+  title: >
+    Spatially explicit network analysis reveals multi-species annual cycle movement patterns of sea ducks
+  author: "Juliet S. Lamb, Peter W. C. Paton, Jason E. Osenkowski, Shannon S. Badzinski, Alicia M. Berlin, Tim Bowman, Chris Dwyer, Luke J. Fara, Scott G. Gilliland, Keven Kenow, Christine Lepage, Mark L. Mallory, Glenn H. Olsen, Matthew C. Perry, Scott A. Petrie, Jean-Pierre L. Savard, Lucas Savoy, Michael Schummer, Caleb S. Spiegel, and Scott R. McWilliams"
+  journal: "Ecological Applications"
+  year: 2019
+
 - file: Carter et al 2020.pdf
   title: >
     The effects of dietary linoleic acid and hydrophilic antioxidants on basal, peak, and sustained metabolism in flight-trained European Starlings
@@ -318,6 +360,20 @@
     Energy stores, oxidative balance, and sleep in migratory Garden Warblers (Sylvia borin) and Whitethroats (Sylvia communis) at a spring stopover site
   author: "Andrea Ferretti, Scott R. McWilliams, Niels C. Rattenborg, Ivan Maggini, Massimiliano Cardinale and Leonida Fusani"
   journal: "Integrative Organismal Biology"
+  year: 2020
+
+- file: Lamb et al 2020.pdf
+  title: >
+    Implanted satellite transmitters affect sea duck movement patterns at short and long timescales
+  author: "Juliet S. Lamb, Peter W. C. Paton, Jason E. Osenkowski, Shannon S. Badzinski, Alicia M. Berlin, Tim Bowman, Chris Dwyer, Luke J. Fara, Scott G. Gilliland, Keven Kenow, Christine Lepage, Mark L. Mallory, Glenn H. Olsen, Matthew C. Perry, Scott A. Petrie, Jean-Pierre L. Savard, Lucas Savoy, Michael Schummer, Caleb S. Spiegel, and Scott R. McWilliams"
+  journal: "Ornithological Applications"
+  year: 2020
+
+- file: Lamb et al 2020b.pdf
+  title: >
+    Assessing year-round habitat use by migratory sea ducks in a multi-species context reveals seasonal variation in habitat selection and partitioning
+  author: "Juliet S. Lamb, Peter W. C. Paton, Jason E. Osenkowski, Shannon S. Badzinski, Alicia M. Berlin, Tim Bowman, Chris Dwyer, Luke J. Fara, Scott G. Gilliland, Kevin Kenow, Christine Lepage, Mark L. Mallory, Glenn H. Olsen, Matthew C. Perry, Scott A. Petrie, Jean-Pierre L. Savard, Lucas Savoy, Michael Schummer, Caleb S. Spiegel and Scott R. McWilliams"
+  journal: "Ecography"
   year: 2020
 
 - file: Buffum et al 2021.pdf
@@ -374,6 +430,20 @@
     Training graduate students in multiple genres of public and academic science writing: An assessment using an adaptable, interdisciplinary rubric
   author: "Erin R. Harrington, Ingrid E. Lofgren, Caroline Gottschalk Druschke, Nancy E. Karraker, Nedra Reynolds, and Scott R. McWilliams"
   journal: "Frontiers in Environmental Science"
+  year: 2021
+
+- file: Lamb et al 2021.pdf
+  title: >
+    Annual‐cycle movements and phenology of Black Scoters in eastern North America
+  author: "Juliet S. Lamb, Scott G. Gilliland, Jean-Pierre L. Savard, Pamela H. Loring, Scott R. McWilliams, Glenn H. Olsen, Jason E. Osenkowski, Peter W. C. Paton, Matthew C. Perry, and Timothy D. Bowman"
+  journal: "Ecography"
+  year: 2021
+
+- file: Langlois and McWilliams 2021.pdf
+  title: >
+    Essential amino acid requirements of granivorous and omnivorous songbirds and the provision of natural foods
+  author: "Lillie A. Langlois and Scott R. McWilliams"
+  journal: "Journal of Ornithology"
   year: 2021
 
 - file: Grady et al 2022.pdf
@@ -437,6 +507,20 @@
     A new approach for increasing graduate students’ science communication capacity and confidence
   author: "Erin R. Harrington, Scott R. McWilliams, Nancy E. Karraker, Caroline Gottschalk Druschke, Jenna Morton-Aiken, Elaine Finan, and Ingrid E. Lofgren"
   journal: "Peer J"
+  year: 2024
+
+- file: Lamb et al 2024.pdf
+  title: >
+    Evaluating conservation units using network analysis: a sea duck case study
+  author: "Juliet S. Lamb, Clara Cooper-Mullin, Scott G. Gilliland, Alicia M. Berlin, Timothy D. Bowman, W. Sean Boyd, Susan E. W. De La Cruz, Daniel Esler, Joseph R. Evenson, Paul Flint, Christine Lepage, Dustin E. Meattey, Jason E. Osenkowski, Peter W. C. Paton, Matthew C. Perry, Dan Rosenberg, Jean-Pierre L. Savard, Lucas Savoy, Jason Schamber, David H. Ward, John Y. Takekawa, and Scott R. McWilliams"
+  journal: "Ecography"
+  year: 2024
+
+- file: Malkoc et al 2024.pdf
+  title: >
+    Commentary on Thoral et al. (2024) ‘The relationship between mitochondrial respiration, resting metabolic rate and blood cell count in great tits’
+  author: "Kasja Malkoc, Michaela Hau, Scott McWilliams, Edyta Teresa Sadowska, Maciej Dzialo, Barbara Pierce, Lisa Trost, Ulf Bauchinger, Eve Udino and Stefania Casagrande"
+  journal: "Biology Open"
   year: 2024
 
 - file: Berigan et al 2025.pdf
