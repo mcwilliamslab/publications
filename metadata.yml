@@ -1,9 +1,23 @@
+- file: McWilliams 1992.pdf
+  title: >
+    Courtship behavior of the small-mouthed salamander (Ambystoma texanum): The effects of conspecific males on male mating tactics
+  author: "Scott R. McWilliams"
+  journal: "Behavior"
+  year: 1992
+
 - file: Afik et al 1997.pdf
   title: >
     A test for passive absorption of glucose in Yellow-rumped Warblers and its ecological implications 
   author: "Daniel Afik, Scott R. McWilliams, William H. Karasov"
   journal: "Physiological Zoology"
   year: 1997
+
+- file: McW and Karasov 2001.pdf
+  title: >
+    Phenotypic flexibility in digestive system structure and function in migratory birds and its ecological significance
+  author: "Scott R. McWilliams and William H. Karasov"
+  journal: "Comparative Biochemistry and Physiology Part A"
+  year: 2001
 
 - file: ELS Vert Nutrition 2002.pdf
   title: >
@@ -19,6 +33,13 @@
   journal: "Wilson Bulletin"
   year: 2002
 
+- file: McKinney et al 2004.pdf
+  title: >
+    Allometric length-weight relationship for benthic prey of aquatic wildlife in coastal marine habitats
+  author: "Richard A. McKinney, Sarah M. Glatt, and Scott R. McWilliams"
+  journal: "Wildlife Biology"
+  year: 2004
+
 - file: Endrulat et al 2005.pdf
   title: >
     Habitat selection and home range size of Ruffed Grouse in Rhode Island
@@ -32,6 +53,27 @@
   author: "William H. Karasov and Scott R. McWilliams"
   journal: "Physiological and Ecological Adaptations to Feeding to Vertebrates"
   year: 2005
+
+- file: McKinney and McWilliams 2005.pdf
+  title: >
+    A new model to estimate daily energy expenditure for wintering waterfowl
+  author: "Richard A. McKinney and Scott R. McWilliams"
+  journal: "Wilson Bulletin"
+  year: 2005
+
+- file: McKinney et al 2006.pdf
+  title: >
+    Waterfowl–habitat associations during winter in an urban North Atlantic estuary 
+  author: "Richard A. McKinney, Scott R. McWilliams, and Michael A. Charpentier"
+  journal: "Biological Conservation"
+  year: 2006
+
+- file: McKinney et al 2007.pdf
+  title: >
+    Habitat characteristics associated with the distribution and abundance of Histrionicus histrionicus (Harlequin Ducks) wintering in southern New England
+  author: "Richard A. McKinney, Scott R. McWilliams, and Michael A. Charpentier"
+  journal: "Northeastern Naturalist"
+  year: 2007
 
 - file: Bauchinger and McWilliams 2009.pdf
   title: >
@@ -164,6 +206,13 @@
     Evaluating spatially explicit viability of a declining Ruffed Grouse population
   author: "Erik J. Blomberg, Brian C. Tefft, J. Michael Reed, and Scott R. McWilliams"
   journal: "The Journal of Wildlife Management"
+  year: 2012
+
+- file: McKinney and McWilliams 2012.pdf
+  title: >
+    Energy-based carrying capacities of Bufflehead Bucephala albeola wintering habitats
+  author: "Richard A. McKinney and Scott R. McWilliams"
+  journal: "The Open Ornithology Journal"
   year: 2012
 
 - file: Alan and McWilliams 2013.pdf
