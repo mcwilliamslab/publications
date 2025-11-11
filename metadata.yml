@@ -61,6 +61,13 @@
   journal: "Biology Open"
   year: 2024
 
+- file: Mezebish Quinn et al 2024.pdf
+  title: >
+    Habitat selection of non‐breeding American black ducks in an urban estuary
+  author: "Tori Mezebish Quinn, Peter W.C. Paton, Brian D. Gerber, Jennifer E. Kilburn, and Scott R. McWilliams"
+  journal: "The Journal of Wildlife Management"
+  year: 2024
+
 - file: Bianchini et al 2023.pdf
   title: >
     Evaluation of breeding distribution and chronology of North American scoters
@@ -102,12 +109,6 @@
   author: "Clayton L. Graham, Tanner Steeves, and Scott R. McWilliams"
   journal: "Ornithological Applications"
   year: 2022
-
-
-
-
-
-
 
 - file: Buffum et al 2021.pdf
   title: >
@@ -177,6 +178,21 @@
     Essential amino acid requirements of granivorous and omnivorous songbirds and the provision of natural foods
   author: "Lillie A. Langlois and Scott R. McWilliams"
   journal: "Journal of Ornithology"
+  year: 2021
+
+- file: McWilliams et al 2021.pdf
+  title: >
+    How birds during migration maintain (oxidative) balance
+  author: "Scott McWilliams, Wales Carter, Clara Cooper-Mullin, Kristen DeMoranville, Abigail Frawley, Barbara Pierce, and Megan Skrip"
+  journal: "Frontiers in Ecology and Evolution"
+  year: 2021
+
+- file: Mizrahy et al 2021.pdf
+  title: >
+    Availability of water affects renewal of tissues in migratory Blackcaps during stopover
+  author: "Ortal Mizrahy, Ulf Bauchinger, Sarah E. Aamidor, Scott R. McWilliams, and
+Berry Pinshow"
+  journal: "Integrative and Comparative Biology"
   year: 2021
 
 - file: Carter et al 2020.pdf
@@ -270,6 +286,13 @@
   journal: "Proceedings of the American Woodcock Symposium"
   year: 2019
 
+- file: Meattey et al 2019.pdf
+  title: >
+    Resource selection and wintering phenology of White-winged Scoters in southern New England: Implications for offshore wind energy development
+  author: "Dustin E. Meattey, Scott R. McWilliams, Peter W.C. Paton, Christine Lepage, Scott G. Gilliland, Lucas Savoy, Glenn H. Olsen, and Jason E. Osenkowski"
+  journal: "Ornithological Applications"
+  year: 2019
+
 - file: Carter et al 2018.pdf
   title: >
     Turnover of muscle lipids and response to exercise differ between neutral and polar fractions in a model songbird, the zebra finch
@@ -282,6 +305,13 @@
     Better science through rhetoric: A new model and pilot program for training graduate student science writers
   author: "Caroline Gottschalk Druschke, Nedra Reynolds, Jenna Morton-Aiken, Ingrid E. Lofgren, Nancy E. Karraker, and Scott R. McWilliams"
   journal: "Technical Communication Quarterly"
+  year: 2018
+
+- file: Meattey et al 2018.pdf
+  title: >
+    Annual cycle of White-winged Scoters (Melanitta fusca) in eastern North America: migratory phenology, population delineation, and connectivity
+  author: "Dustin E. Meattey, Scott R. McWilliams, Peter W.C. Paton, Christine Lepage, Scott G. Gilliland, Lucas Savoy, Glenn H. Olsen, and Jason E. Osenkowski"
+  journal: "Canadian Journal of Zoology"
   year: 2018
 
 - file: Beuth et al 2017.pdf
@@ -378,7 +408,7 @@
 - file: Ladin et al 2014.pdf
   title: >
     Regional and intraseasonal variation in diet of wintering and staging Atlantic Brant
-  author: "Zachary S. Ladin, Christopher K. Williams, Paul M. Castelli, Kristopher J. Winiarski, Jay Osenkowski and Scott R. McWilliams"
+  author: "Zachary S. Ladin, Christopher K. Williams, Paul M. Castelli, Kristopher J. Winiarski, Jason E. Osenkowski and Scott R. McWilliams"
   journal: "Journal of Wildlife Management"
   year: 2014
 
@@ -387,6 +417,20 @@
     Habitat use and selection of Black Scoters in southern New England and siting of offshore wind energy facilities
   author: "Pamela H. Loring, Peter W. C. Paton, Jason E. Osenkowski, Scott G. Gilliland, Jean-Pierre L. Savard, and Scott R. McWilliams"
   journal: "The Journal of Wildlife Management"
+  year: 2014
+
+- file: McWilliams and Karasov 2014.pdf
+  title: >
+    Spare capacity and phenotypic flexibility in the digestive system of a migratory bird: defining the limits of animal design
+  author: "Scott R. McWilliams and William H. Karasov"
+  journal: "Proceedings of the Royal Society B"
+  year: 2014
+
+- file: Pierce and McWilliams 2014.pdf
+  title: >
+    The fat of the matter: How dietary fatty acids can affect exercise performance
+  author: "Barbara J. Pierce and Scott R. McWilliams"
+  journal: "Integrative and Comparative Biology"
   year: 2014
 
 - file: Alan and McWilliams 2013.pdf
@@ -438,6 +482,13 @@
   journal: "Behavioral Ecology"
   year: 2013
 
+- file: McWilliams and Whitman 2013.pdf
+  title: >
+    Non-destructive techniques to assess body composition of birds: a review and validation study
+  author: "Scott R. McWilliams and Megan Whitman"
+  journal: "Journal of Ornithology"
+  year: 2013
+
 - file: Bauchinger and McWilliams 2012.pdf
   title: >
     Tissue-specific mass changes during fasting: The protein turnover hypothesis
@@ -459,8 +510,20 @@
   journal: "The Open Ornithology Journal"
   year: 2012
 
+- file: Munoz-Gardia et al 2012.pdf
+  title: >
+    Allocation of endogenous and dietary protein in the reconstitution of the gastrointestinal tract in migratory Blackcaps at stopover sites
+  author: "Agustí Muñoz-Garcia, Sarah E. Aamidor, Marshall D. McCue, Scott R. McWilliams, and Berry Pinshow"
+  journal: "The Journal of Experimental Biology"
+  year: 2012
 
-
+- file: Nebel et al 2012.pdf
+  title: >
+    Constitutive immune function in European starlings, Sturnus vulgaris, is decreased immediately after an endurance flight in a wind tunnel
+  author: "Silke Nebel, Ulf Bauchinger, Deborah M. Buehler, Lillie A. Langlois, Michelle Boyles,
+Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Guglielmo"
+  journal: "The Journal of Experimental Biology"
+  year: 2012
 
 - file: Ben-Hamo et al 2011.pdf
   title: >
@@ -509,6 +572,13 @@
     A mass balance approach to identify and compare differential routing of 13C-labeled carbohydrates, lipids, and proteins in vivo
   author: "Marshall D. McCue, Adam Smith, Richard McKinney, Boris Rewald, Berry Pinshow, and Scott R. McWilliams"
   journal: "Physiological and Biochemical Zoology"
+  year: 2011
+
+- file: McWilliams 2011.pdf
+  title: >
+    Book reviews: Ecological and environmental physiology of birds
+  author: "Scott R. McWilliams"
+  journal: "The Auk"
   year: 2011
 
 - file: Bauchinger and McWilliams 2010.pdf
@@ -588,12 +658,41 @@
   journal: "Northeastern Naturalist"
   year: 2007
 
-- file: McKinney et al 2006.pdf
+- file: McWilliams et al 2007.pdf
   title: >
-    Waterfowl–habitat associations during winter in an urban North Atlantic estuary 
-  author: "Richard A. McKinney, Scott R. McWilliams, and Michael A. Charpentier"
-  journal: "Biological Conservation"
+    Effects of prescribed fall burning on a wetland plant community, with implications for management of plants and herbivores
+  author: "Scott R. McWilliams, Todd Sloat, Catherine A. Toft, and Daphne Hatch"
+  journal: "Western North American Naturalist"
+  year: 2007
+
+- file: Podlesak et al 2007.pdf
+  title: >
+    Metabolic routing of dietary nutrients in birds: Effects of dietary lipin concentration on d13C of depot fat and its ecological implications
+  author: "David W. Podlesak and Scott R. McWilliams"
+  journal: "The Auk"
+  year: 2007
+
+- file: Muller et al 2006.pdf
+  title: >
+    Tri-trophic effects of plant defenses: chickadees consume caterpillars based on host leaf chemistry
+  author: "Martina S. Mu¨ller, Scott R. McWilliams, David Podlesak, Jack R. Donaldson, Helen M. Bothwell and Richard L. Lindroth"
+  journal: "Oikos"
   year: 2006
+
+- file: Podlesak et al 2006.pdf
+  title: >
+    Metabolic routing of dietary nutrients in birds: Effects of diet quality and macronutrient composition revealed using stable isotopes
+  author: "David W. Podlesak and Scott R. McWilliams"
+  journal: "Physiological and Biochemical Zoology"
+  year: 2006
+
+- file: McWilliams and Leafloor 2005.pdf
+  title: >
+    Effects of elevated CO2 on keystone herbivores in modern arctic ecosystems
+  author: "Scott R. McWilliams and James O. Leafloor"
+  journal: "A history of atmospheric CO2 and its effects on plants, animals, and
+ecosystems"
+  year: 2005
 
 - file: Endrulat et al 2005.pdf
   title: >
@@ -616,11 +715,82 @@
   journal: "Wilson Bulletin"
   year: 2005
 
+- file: McWilliams and Karasov 2005.pdf
+  title: >
+    Migration takes guts: Digestive physiology of migratory birds and its ecological significance
+  author: "Scott R. McWilliams and William H. Karasov"
+  journal: "Birds of Two Worlds"
+  year: 2005
+
+- file: McWilliams and Leafloor 2005.pdf
+  title: >
+    Effects of elevated CO2 on keystone herbivores in modern arctic ecosystems
+  author: "Scott R. McWilliams and James O. Leafloor"
+  journal: "A history of atmospheric CO2 and its effects on plants, animals, and
+ecosystems"
+  year: 2005
+
+- file: Pierce and McWilliams 2005.pdf
+  title: >
+    Seasonal changes in composition of lipid stores in migratory birds: Causes and consequences
+  author: "Barbara J. Pierce and Scott R. McWilliams"
+  journal: "The Condor"
+  year: 2005
+
+- file: Pierce et al 2005.pdf
+  title: >
+    Effect of dietary fatty acid composition on depot fat and exercise performance in a migrating songbird, the red-eyed vireo
+  author: "Barbara J. Pierce, Scott R. McWilliams, Timothy P. O’Connor, Allen R. Place, and Christopher G. Guglielmo"
+  journal: "The Journal of Experimental Biology"
+  year: 2005
+
+- file: Podlesak et al 2005.pdf
+  title: >
+    Stable isotopes in breath, blood, feces and feathers can indicate intra-individual changes in the diet of migratory songbirds
+  author: "David W. Podlesak,  Scott R. McWilliams, and Kent A. Hatch"
+  journal: "Oecologia"
+  year: 2005
+
 - file: McKinney et al 2004.pdf
   title: >
     Allometric length-weight relationship for benthic prey of aquatic wildlife in coastal marine habitats
   author: "Richard A. McKinney, Sarah M. Glatt, and Scott R. McWilliams"
   journal: "Wildlife Biology"
+  year: 2004
+
+- file: McWilliams and Raveling 2004.pdf
+  title: >
+    Predator-prey interactions between eagles and Cackling Canada and Ross' Geese during winter in California
+  author: "Scott R. McWilliams, Jon P. Dunn and Dennis G. Raveling"
+  journal: "Wilson Bulletin"
+  year: 2004
+
+- file: McWilliams et al 2004.pdf
+  title: >
+    Energetics and time allocation of Cackling Canada Geese during spring
+  author: "Scott R. McWilliams and Dennis G. Raveling"
+  journal: "Biology and Management of Canada Geese, Proceedings of the International Canada Goose Symposium"
+  year: 2004
+
+- file: McWilliams et al 2004.pdf
+  title: >
+    Flying, fasting, and feeding in birds during migration: a nutritional and physiological ecology perspective
+  author: "Scott R. McWilliams, Christopher Guglielmo, Barbara Pierce, and Marcel Klaassen"
+  journal: "Journal of Avian Biology"
+  year: 2004
+
+- file: Pierce and McWilliams 2004.pdf
+  title: >
+    Diet quality and food limitation affect the dynamics of body composition and digestive organs in a migratory songbird (Zonotrichia albicollis)
+  author: "Barbara J. Pierce and Scott R. McWilliams"
+  journal: "Physiological and Biochemical Zoology"
+  year: 2004
+
+- file: Pierce et al 2004.pdf
+  title: >
+    Diet preferences for specific fatty acids and their effect on composition of fat reserves in migratory Red-eyed Vireos (Vireo olivaceous)
+  author: "Barbara J. Piercea, Scott R. McWilliams, Allen R. Place, and Michael A. Huguenin"
+  journal: "Comparative Biochemistry and Physiology"
   year: 2004
 
 - file: ELS Vert Nutrition 2002.pdf
@@ -635,7 +805,14 @@
     Determinants of dietary preference in Yellow-rumped Warblers
   author: "Kim I. Frazer and Scott R. McWilliams"
   journal: "Wilson Bulletin"
-  year: 2002  
+  year: 2002
+
+- file: McWilliams et al 2002.pdf
+  title: >
+    Diet preferences of warblers for specific fatty acids in relation to nutritional requirements and digestive capabilities
+  author: "Scott R. McWilliams, Shannon B. Kearney, and William H. Karasov"
+  journal: "Journal of Avian Biology"
+  year: 2002
 
 - file: McW and Karasov 2001.pdf
   title: >
@@ -644,11 +821,60 @@
   journal: "Comparative Biochemistry and Physiology Part A"
   year: 2001
 
+- file: McWilliams 2000.pdf
+  title: >
+    Avoiding extreme environments: Migratory birds
+  author: "Scott R. McWilliams"
+  journal: "Maritimes"
+  year: 2000
+
+- file: McWilliams 1999.pdf
+  title: >
+    Digestive strategies of avian herbivores
+  author: "Scott R. McWilliams"
+  journal: "Proceedings of the 22nd International Ornithological Congress"
+  year: 1999
+
+- file: McWilliams et al 1999.pdf
+  title: >
+    Digestive adjustments in Cedar Waxwings to high feeding rate
+  author: "Scott R. McWilliams, Enrique Caviedes-Vidal, and William H. Karasov"
+  journal: "Journal of Experimental Zoology"
+  year: 1999
+
+- file: McWilliams and Karasov 1998.pdf
+  title: >
+    Test of a digestion optimization model: effect of variable-reward feeding schedules on digestive performance of a migratory bird
+  author: "Scott R. McWilliams and William H. Karasov"
+  journal: "Oecologia"
+  year: 1998
+
+- file: McWilliams and Karasov 1998b.pdf
+  title: >
+    Test of a digestion optimization model: Effects of costs of feeding on digestive parameters
+  author: "Scott R. McWilliams and William H. Karasov"
+  journal: "Physiological Zoology"
+  year: 1998
+
+- file: McWilliams and Raveling 1998.pdf
+  title: >
+    Habitat use and foraging behavior of cackling Canada and Ross' geese during spring: Implications for the analysis of ecological determinants of goose social behavior
+  author: "Scott R. McWilliams and Dennis G. Raveling"
+  journal: "Biology and Management of Canada Geese. Proceedings of the International Canada Goose Symposium"
+  year: 1998
+
 - file: Afik et al 1997.pdf
   title: >
     A test for passive absorption of glucose in Yellow-rumped Warblers and its ecological implications 
   author: "Daniel Afik, Scott R. McWilliams, William H. Karasov"
   journal: "Physiological Zoology"
+  year: 1997
+
+- file: McWilliams et al 1997.pdf
+  title: >
+    Patterns and processes in the vertebrate digestive system
+  author: "Scott R. McWilliams, Daniel Afik, Stephen Secor"
+  journal: "Trends in ecology and evolution"
   year: 1997
 
 - file: McWilliams 1992.pdf
@@ -657,3 +883,24 @@
   author: "Scott R. McWilliams"
   journal: "Behavior"
   year: 1992
+
+- file: McWilliams and Bachmann 1989.pdf
+  title: >
+    Predatory behavior of larval Small-mouthed Salamangers (Ambystoma Texanum)
+  author: "Scott R. McWilliams and Marilyn D. Bachmann"
+  journal: "Herpetologica"
+  year: 1989
+
+- file: McWilliams and Bachmann 1989b.pdf
+  title: >
+    Foraging ecology and prey preference of pond-form larval Small-mouthed Salamanders, Ambystoma texanum
+  author: "Scott R. McWilliams and Marilyn D. Bachmann"
+  journal: "Copeia"
+  year: 1989
+
+- file: McWilliams and Bachmann 1988.pdf
+  title: >
+    Using life history and ecology as tools to manage a threatened salamander species
+  author: "Scott R. McWilliams and Marilyn D. Bachmann"
+  journal: "Journal of Iowa Academy of Sciences"
+  year: 1988
