@@ -1,478 +1,113 @@
-- file: McWilliams 1992.pdf
+- file: Berigan et al 2025.pdf
   title: >
-    Courtship behavior of the small-mouthed salamander (Ambystoma texanum): The effects of conspecific males on male mating tactics
-  author: "Scott R. McWilliams"
-  journal: "Behavior"
-  year: 1992
-
-- file: Afik et al 1997.pdf
-  title: >
-    A test for passive absorption of glucose in Yellow-rumped Warblers and its ecological implications 
-  author: "Daniel Afik, Scott R. McWilliams, William H. Karasov"
-  journal: "Physiological Zoology"
-  year: 1997
-
-- file: McW and Karasov 2001.pdf
-  title: >
-    Phenotypic flexibility in digestive system structure and function in migratory birds and its ecological significance
-  author: "Scott R. McWilliams and William H. Karasov"
-  journal: "Comparative Biochemistry and Physiology Part A"
-  year: 2001
-
-- file: ELS Vert Nutrition 2002.pdf
-  title: >
-    Ecology of vertebrate nutrition
-  author: "Scott R. McWilliams"
-  journal: "Encyclopedia of Life Sciences"
-  year: 2002
-
-- file: Frazier and McWilliams 2002.pdf
-  title: >
-    Determinants of dietary preference in Yellow-rumped Warblers
-  author: "Kim I. Frazer and Scott R. McWilliams"
-  journal: "Wilson Bulletin"
-  year: 2002
-
-- file: McKinney et al 2004.pdf
-  title: >
-    Allometric length-weight relationship for benthic prey of aquatic wildlife in coastal marine habitats
-  author: "Richard A. McKinney, Sarah M. Glatt, and Scott R. McWilliams"
-  journal: "Wildlife Biology"
-  year: 2004
-
-- file: Endrulat et al 2005.pdf
-  title: >
-    Habitat selection and home range size of Ruffed Grouse in Rhode Island
-  author: "Scott R. McWilliams"
-  journal: "Northeastern Naturalist"
-  year: 2005
-
-- file: Karasov and McWilliams 2005.pdf
-  title: >
-    Digestive constraints in mammalian and avian ecology
-  author: "William H. Karasov and Scott R. McWilliams"
-  journal: "Physiological and Ecological Adaptations to Feeding to Vertebrates"
-  year: 2005
-
-- file: McKinney and McWilliams 2005.pdf
-  title: >
-    A new model to estimate daily energy expenditure for wintering waterfowl
-  author: "Richard A. McKinney and Scott R. McWilliams"
-  journal: "Wilson Bulletin"
-  year: 2005
-
-- file: McKinney et al 2006.pdf
-  title: >
-    Waterfowl–habitat associations during winter in an urban North Atlantic estuary 
-  author: "Richard A. McKinney, Scott R. McWilliams, and Michael A. Charpentier"
-  journal: "Biological Conservation"
-  year: 2006
-
-- file: McKinney et al 2007.pdf
-  title: >
-    Habitat characteristics associated with the distribution and abundance of Histrionicus histrionicus (Harlequin Ducks) wintering in southern New England
-  author: "Richard A. McKinney, Scott R. McWilliams, and Michael A. Charpentier"
-  journal: "Northeastern Naturalist"
-  year: 2007
-
-- file: Bauchinger and McWilliams 2009.pdf
-  title: >
-    Carbon turnover in tissues of a passerine bird: Allometry, isotopic clocks, and phenotypic flexibilty in organ size
-  author: "Ulf Bauchinger and Scott R. McWilliams"
-  journal: "Physiological and Biochemical Zoology"
-  year: 2009
-
-- file: Blomgberg et al 2009.pdf
-  title: >
-    Predicting landscape-scale habitat distribution for ruffed grouse (Bonasa umbellus) using presence-only data
-  author: "Erik J. Blomberg, Brian C. Tefft, Erik G. Endrulat, and Scott R. McWilliams"
-  journal: "Wildlife Biology"
-  year: 2009
-
-- file: DesRochers et al 2009.pdf
-  title: >
-    Macronutrient profiles of wetland plants consumed by the Hawaiian Moorhen (Gallinula Chloropus Sandvivensis)
-  author: "David W. DesRochers, Scott R. McWilliams, Michael D. Silbernagle, and J. Michael Reed"
-  journal: "Wetlands"
-  year: 2009
-
-- file: McCue et al 2009.pdf
-  title: >
-    Effect of dietary fatty acid composition on fatty acid profiles of polar and neutral lipid tissue fractions in zebra finches, Taeniopygia guttata
-  author: "Marshall D. McCue, Oren Amitai, Inna Khozin-Goldberg, Scott R. McWilliams, Berry Pinshowa"
-  journal: "Comparative Biochemistry and Physiology, Part A"
-  year: 2009
-
-- file: Bauchinger and McWilliams 2010.pdf
-  title: >
-    Extent of phenotypic flexibility during long-distance flight is determined by tissue-specific turnover rates: A new hypothesis
-  author: "Ulf Bauchinger and Scott R. McWilliams"
-  journal: "Journal of Avian Biology"
-  year: 2010
-
-- file: Bauchinger et al 2010.pdf
-  title: >
-    Exposure to cold but not exercise increases carbon turnover rates in specific tissues of a passerine
-  author: "Ulf Bauchinger, Jochen Keil and Robert A. McKinney, Jörg M. Starck, and Scott R. McWilliams"
-  journal: "The Journal of Experimental Biology"
-  year: 2010
-
-- file: Ben-Hamo et al 2010.pdf
-  title: >
-    Fasting triggers hypothermia, and ambient temperature modulates its depth in Japanese quail (Coturnix japonica)
-  author: "Miriam Ben-Hamo, Berry Pinshow, Marshall D. McCue, Scott R. McWilliams, and Ulf Bauchinger"
-  journal: "Comparative Biochemistry and Physiology, Part A"
-  year: 2010
-
-- file: DesRochers et al 2010.pdf
-  title: >
-    Evaluating if energy and protein limit abundance of Hawaiian Moorhen
-  author: "David W. DesRochers, Scott R. McWilliams, and J. Michael Reed"
-  journal: "Journal of Wildlife Management"
-  year: 2010
-
-- file: Langlois and McWilliams 2010.pdf
-  title: >
-    Protein requirements of an omnivorous and granivorous songbird decrease during migration
-  author: "Lillie A. Langlois and Scott R. McWilliams"
-  journal: "The Auk"
-  year: 2010
-
-- file: McCue et al 2010.pdf
-  title: >
-    Tracking the oxidative kinetics of carbohydrates, amino acids and fatty acids in the house sparrow using exhaled 13CO2
-  author: "Marshall D. McCue, Orit Sivan, Scott R. McWilliams and Berry Pinshow"
-  journal: "The Journal of Experimental Biology"
-  year: 2010
-
-- file: Ben-Hamo et al 2011.pdf
-  title: >
-    Dietary fatty acid composition influences tissue lipid profiles and regulation of body temperature in Japanese quail
-  author: "Miriam Ben-Hamo, Marshall D. McCue, Scott R. McWilliams, and Berry Pinshow"
-  journal: "Journal of Comparative Physiology B"
-  year: 2011
-
-- file: Ladin et al 2011.pdf
-  title: >
-    Time energy budgets and food use of Atlantic Brant across their wintering range
-  author: "Zachary S. Ladin, Paul M. Castelli, Scott R. McWilliams, Christopher K. Williams"
-  journal: "Journal of Wildlife Management"
-  year: 2011
-
-- file: Aamidor et al 2011.pdf
-  title: >
-    During stopover, migrating Blackcaps adjust behavior and intake of food depending on the content of protein in their diets
-  author: "Sarah E. Aamidor, Ulf Bauchinger, Ortal Mizrahy, Scott R. McWilliams, and Berry Pinshow"
-  journal: "Integrative and Comparative Biology"
-  year: 2011
-
-- file: Bauchinger et al 2011.pdf
-  title: >
-    Reduced body mass gain in small passerines during migratory stopover under simulated heat wave conditions
-  author: "Ulf Bauchinger, Scott R. McWilliams, and Berry Pinshow"
-  journal: "Comparative Biochemistry and Physiology, Part A"
-  year: 2011
-
-- file: Bauchinger et al 2011b.pdf
-  title: >
-    Flight muscle shape reliably predicts flight muscle mass of migratory songbirds: a new tool for field ornithologists
-  author: "Ulf Bauchinger, Scott R. McWilliams, Harold Kolb, Vladimir M. Popenko, Edwin R. Price, and Herbert Biebach"
-  journal: "Journal of Ornithology"
-  year: 2011
-
-- file: McCue et al 2011b.pdf
-  title: >
-    Ontogeny and nutritional status influence oxidative kinetics of nutrients and whole-animal bioenergetics in Zebra Finches, Taeniopygia guttata: New applications for 13C breath testing
-  author: "Marshall D. McCue, Scott R. McWilliams and Berry Pinshow"
-  journal: "Physiological and Biochemical Zoology"
-  year: 2011
-
-- file: McCue et al 2011.pdf
-  title: >
-    A mass balance approach to identify and compare differential routing of 13C-labeled carbohydrates, lipids, and proteins in vivo
-  author: "Marshall D. McCue, Adam Smith, Richard McKinney, Boris Rewald, Berry Pinshow, and Scott R. McWilliams"
-  journal: "Physiological and Biochemical Zoology"
-  year: 2011
-
-- file: Bauchinger and McWilliams 2012.pdf
-  title: >
-    Tissue-specific mass changes during fasting: The protein turnover hypothesis
-  author: "Ulf Bauchinger and Scott R. McWilliams"
-  journal: "The Comparative Physiology of Fasting and Starvation"
-  year: 2012
-
-- file: Blomgberg et al 2012.pdf
-  title: >
-    Evaluating spatially explicit viability of a declining Ruffed Grouse population
-  author: "Erik J. Blomberg, Brian C. Tefft, J. Michael Reed, and Scott R. McWilliams"
-  journal: "The Journal of Wildlife Management"
-  year: 2012
-
-- file: McKinney and McWilliams 2012.pdf
-  title: >
-    Energy-based carrying capacities of Bufflehead Bucephala albeola wintering habitats
-  author: "Richard A. McKinney and Scott R. McWilliams"
-  journal: "The Open Ornithology Journal"
-  year: 2012
-
-- file: Alan and McWilliams 2013.pdf
-  title: >
-    Oxidative stress, circulating antioxidants, and dietary preferences in songbirds
-  author: "Rebecca R. Alan and Scott R. McWilliams"
-  journal: "Comparative Biochemistry and Physiology, Part B"
-  year: 2013
-
-- file: Alan et al 2013.pdf
-  title: >
-    The importance of antioxidants for avian fruit selection during autumn migration
-  author: "Rebecca R. Alan, Scott R. McWilliams, and Kevin J. McGraw"
-  journal: "The Wilson Journal of Ornithology"
-  year: 2013
-
-- file: Ben-Hamo et al 2013.pdf
-  title: >
-    Ambient temperature and nutritional stress influence fatty acid composition of structural and fuel lipids in Japanese quail (Coturnix japonica) tissues
-  author: "Miriam Ben-Hamo, Marshall D. McCue,  Inna Khozin-Goldberg, Scott R. McWilliams, and Berry Pinshow"
-  journal: "Comparative Biochemistry and Physiology, Part A"
-  year: 2013
-
-- file: Bolser et al 2013.pdf
-  title: >
-    Birds select fruits with more anthocyanins and phenolic compounds during autumn migration
-  author: "Jessica A. Bolser, Rebecca R. Alan, Adam. D. Smith, Liya Li, Navindra P. Seeram, and Scott R. McWilliams"
-  journal: "The Wilson Journal of Ornithology"
-  year: 2013
-
-- file: Hall et al 2013.pdf
-  title: >
-    Site-specific regulation of adult neurogenesis by dietary fatty acid content, vitamin E and flight exercise in European Starlings
-  author: "Zachary J. Hall, Ulf Bauchinger, Alexander R. Gerson, Edwin R. Price, Lillie A. Langlois, Michelle Boyles, Barbara Pierce, Scott R. McWilliams, David F. Sherry1, and Scott A. MacDougall-Shackleton"
-  journal: "European Journal of Neuroscience"
-  year: 2013
-
-- file: Loring et al 2013.pdf
-  title: >
-    Densities of wintering scoters in relation to benthic prey assemblages in a North Atlantic estuary
-  author: "Pamela H. Loring, Peter W. C. Paton, Scott R. McWilliams, Richard A. McKinney, and Candace A. Oviatt"
-  journal: "Waterbirds"
-  year: 2013
-
-- file: Masse et al 2013.pdf
-  title: >
-    Why woodcock commute: testing the foraging-benefit and predation-risk hypotheses 
-  author: "Roger J. Masse, Brian C. Tefft, José A. Amador, and Scott R. McWilliams"
-  journal: "Behavioral Ecology"
-  year: 2013
-
-- file: Buffum et al 2014.pdf
-  title: >
-    Encouraging family forest owners to create early successional wildlife habitat in southern New England
-  author: "Bill Buffum, Christopher Modisette, and Scott R. McWilliams"
-  journal: "PLOS One"
-  year: 2014
-
-- file: Coluccy et al 2014.pdf
-  title: >
-    True metabolizable energy of American Black Duck foods
-  author: "John M. Coluccy, Michael V. Castelli, Paul M. Castelli, John W. Simpson, Scott R. McWilliams, and Llwellyn Armstrong"
-  journal: "The Journal of Wildlife Management"
-  year: 2014
-
-- file: Coon et al 2014.pdf
-  title: >
-    Introduced and native congeners use different resource allocation strategies to maintain performance during infection
-  author: "Courtney A. C. Coon, Amber J. Brace, Scott R. McWilliams, Marshall D. McCue, and Lynn B. Martin"
-  journal: "Division of Comparative Physiology and Biochemistry, Society for Integrative and Comparative Biology"
-  year: 2014
-
-- file: Ladin et al 2014.pdf
-  title: >
-    Regional and intraseasonal variation in diet of wintering and staging Atlantic Brant
-  author: "Zachary S. Ladin, Christopher K. Williams, Paul M. Castelli, Kristopher J. Winiarski, Jay Osenkowski and Scott R. McWilliams"
-  journal: "Journal of Wildlife Management"
-  year: 2014
-
-- file: Loring et al 2014.pdf
-  title: >
-    Habitat use and selection of Black Scoters in southern New England and siting of offshore wind energy facilities
-  author: "Pamela H. Loring, Peter W. C. Paton, Jason E. Osenkowski, Scott G. Gilliland, Jean-Pierre L. Savard, and Scott R. McWilliams"
-  journal: "The Journal of Wildlife Management"
-  year: 2014
-
-- file: Masse et al 2015.pdf
-  title: >
-    Higher bird abundance and diversity where American Woodcock sing: Fringe benefits of managing forests for woodcock 
-  author: "Roger J. Masse, Brian C. Tefft, and Scott R. McWilliams"
-  journal: "The Journal of Wildlife Management"
-  year: 2015
-
-- file: Beuth et al 2016.pdf
-  title: >
-    Body composition dynamics of Common Eider during winter: An application of the deuterium dilution method
-  author: "Joshua M. Beuth, Peter W. C. Paton, Jason E. Osenkowski, and Scott R. McWilliams"
-  journal: "Wildlife Society Bulletin"
-  year: 2016
-
-- file: Beuth et al 2016b.pdf
-  title: >
-    Validating the deuterium dilution method to measure body composition of Common Eider
-  author: "Joshua M. Beuth, Peter W. C. Paton, Jason E. Osenkowski, and Scott R. McWilliams"
-  journal: "Wildlife Society Bulletin"
-  year: 2016
-
-- file: Cooper-Mullin and McWilliams 2016.pdf
-  title: >
-    The role of the antioxidant system during intense endurance exercise: lessons from migrating birds
-  author: "Clara Cooper-Mullin and Scott R. McWilliams"
-  journal: "Journal of Experimental Biology"
-  year: 2016
-
-- file: Cutting et al 2016.pdf
-  title: >
-    Niche shifts and energetic condition of songbirds in response to phenology of food-resource availability in a high elevation sagebrush ecosystem
-  author: "Kyle A. Cutting, Michelle L. Anderson, Erik A. Beever, Sean R. Schroff, Eric Klaphake, Nathan Korb, and Scott McWilliams"
-  journal: "Ornithological Advances"
-  year: 2016
-
-- file: Gormezano et al 2016.pdf
-  title: >
-    Costs of locomotion in polar bears: when do the costs outweigh the benefits of chasing down terrestrial prey?
-  author: "Linda J. Gormezano, Scott R. McWilliams, David T. Iles and Robert F. Rockwell"
-  journal: "Conservation Physiology"
-  year: 2016
-
-- file: Kohl et al 2016.pdf
-  title: >
-    Modulation of digestive enzyme activities in the avian digestive tract in relation to diet composition and quality
-  author: "Kevin D. Kohl, M. Eugenia Ciminari, Juan G. Chediack, James O. Leafloor, William H. Karasov, Scott R. McWilliams, and Enrique Caviedes‑Vidal"
-  journal: "Journal of Comparative Physiology"
-  year: 2016
-
-- file: Beuth et al 2017.pdf
-  title: >
-    Habitat use and movements of Common Eiders wintering in southern New England
-  author: "Joshua M. Beuth, Scott R. McWilliams, Peter W. C. Paton, and Jason E. Osenkowski"
-  journal: "The Journal of Wildlife Management"
-  year: 2017
-
-- file: Buffum and McWilliams 2017.pdf
-  title: >
-    Assessing the density of vegetation for wildlife cover in regenerating clearcuts via analysis of digital imagery
-  author: "Bill Buffum and Scott R. McWilliams"
-  journal: "Current Trends in Forest Research"
-  year: 2017
-
-- file: Cohen et al 2017.pdf
-  title: >
-    How do en route events around the Gulf of Mexico influence migratory landbird populations?
-  author: "Emily B. Cohen, Wylie C. Barrow, Jr., Jeffrey J. Buler, Jill L. Deppe, Andrew Farnsworth, Peter P. Marra, Scott R. McWilliams, David W. Mehlman, R. Randy Wilson, Mark S. Woodrey, and Frank R. Moore"
+    Low migratory flight altitudes may explain increased collision risk for Scolopax minor (American Woodcock)
+  author: "Liam Berigan, Sarah Clements, Rachel Darling, Alexander Fish, Amber Roth, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Kayleigh Filkins, Clayton Graham, William Harvey, Michael Hook, Douglas Howell, Seth Maddox, Scott R. McWilliams, Shawn Meyer, Theodore Nichols, J. Bruce Pollard, Christian Roy, David Sausville, Colby Slezak, Josh Stiller, Jacob Straub, Mathieu Tetreault, Dawn Washington, Lisa Williams, and Erik Blomberg"
   journal: "Ornithological Applications"
-  year: 2017
-
-- file: Carter et al 2018.pdf
-  title: >
-    Turnover of muscle lipids and response to exercise differ between neutral and polar fractions in a model songbird, the zebra finch
-  author: "Wales A. Carter, Clara Cooper-Mullin and Scott R. McWilliams"
-  journal: "Journal of Experimental Biology"
-  year: 2018
-
-- file: Druschke et al 2018.pdf
-  title: >
-    Better science through rhetoric: A new model and pilot program for training graduate student science writers
-  author: "Caroline Gottschalk Druschke, Nedra Reynolds, Jenna Morton-Aiken, Ingrid E. Lofgren, Nancy E. Karraker, and Scott R. McWilliams"
-  journal: "Technical Communication Quarterly"
-  year: 2018
+  year: 2025
   
-- file: Brenner and McWilliams 2019.pdf
+- file: Corcoran et al 2025.pdf
   title: >
-    Independence day: Post-fledging movements and behavior of adult Eastern Towhees (Pipilo erythrophthalmus) in landscapes managed for American Woodcock (Scolopax minor)
-  author: "Stephen J. Brenner and Scott R. McWilliams"
+    Eastern Whip-poor-will (Antrostomus vociferus) nesting ecology: behavior of nesting adults and chick growth
+  author: "Liam S. Corcoran, Megan E. Gray, and Scott R. McWilliams"
   journal: "The Wilson Journal of Ornithology"
-  year: 2019
+  year: 2025
 
-- file: Brenner et al 2019.pdf
+- file: Finn et al 2025.pdf
   title: >
-    Landscape context matters when American Woodcock select singing grounds: Results from a reciprocal transplant experiment
-  author: "Stephen J. Brenner, Brian C. Tefft, and Scott R. McWilliams"
-  journal: "Ornithological Applications"
-  year: 2019
+    Plant constituent predictors in the winter diet selection of the imperiled New England Cottontail (Sylvilagus transitionalis)
+  author: "Wendy C. Finn, Thomas J. McGreevy Jr, , Brian C. Tefft, Thomas P. Husband, Wales A. Carter, and Scott R. McWilliams"
+  journal: "Journal of Mammalogy"
+  year: 2025
 
-- file: Brenner et al 2019b.pdf
+- file: Gray et al 2025.pdf
   title: >
-    Observations of certain breeding behaviors in a bilateral gynandromorph Eastern Towhee (Pipilo erythrophthalmus)
-  author: "Stephen J. Brenner, Olivia A. DaRugna, and Scott R. McWilliams"
-  journal: "The Wilson Journal of Ornithology"
-  year: 2019
+    Under the umbrella: Does management for American woodcock increase reproductive success of a declining songbird?
+  author: "Megan E. Gray, Liam S. Corcoran, and Scott R. McWilliams"
+  journal: "Journal of Wildlife Management"
+  year: 2025
 
-- file: Buffum et al 2019.pdf
+- file: Clements et al 2024.pdf
   title: >
-    Mobilizing private landowners to create American Woodcock habitat: Lessions learned in Rhode Island, USA
-  author: "Bill Buffum, Brian C. Tefft, Roger J. Masse and Scott R. McWilliams"
-  journal: "Proceedings of the American Woodcock Symposium"
-  year: 2019
+    Satellite tracking of American Woodcock reveals a gradient of migration strategies
+  author: "Sarah J. Clements, Liam A. Berigan, Alexander C. Fish, Rachel L. Darling, Amber M. Roth, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Kayleigh Filkins, Clayton L. Graham, William Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, David Sausville, Colby Slezak, Josh Stiller, Jacob Straub, Mathieu Tetreault, Dawn Washington, Lisa Williams, and Erik J. Blomberg"
+  journal: "Ornithology"
+  year: 2024
 
-- file: Carter et al 2019.pdf
+- file: Fish et al 2024.pdf
   title: >
-    The importance of isotopic turnover for understanding key aspects of animal ecology and nutrition 
-  author: "Wales A. Carter, Ulf Bauchinger, and Scott R. McWilliams"
-  journal: "Diversity"
-  year: 2019
+    American woodcock migration phenology in eastern North America: implications for hunting season timing
+  author: "Alexander C. Fish, Amber M. Roth, Greg Balkcom,  Liam Berigan, Kylie Brunette, Sarah Clements, Gary Costanzo, Clayton L. Graham, William F. Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, Josh Stiller, Dawn Washington, Lisa Williams, Erik J. Blomberg"
+  journal: "Journal of Wildlife Management"
+  year: 2024
+  
+- file: Harrington et al 2024.pdf
+  title: >
+    A new approach for increasing graduate students’ science communication capacity and confidence
+  author: "Erin R. Harrington, Scott R. McWilliams, Nancy E. Karraker, Caroline Gottschalk Druschke, Jenna Morton-Aiken, Elaine Finan, and Ingrid E. Lofgren"
+  journal: "Peer J"
+  year: 2024
 
-- file: Carter et al 2019b.pdf
+- file: Lamb et al 2024.pdf
   title: >
-    Dynamics of individual fatty acids in muscle fat stores and membranes of a songbird and its functional and ecological importance
-  author: "Wales A. Carter, John P. Whiteman, Clara Cooper-Mullin, Seth D. Newsome, and Scott R. McWilliams"
-  journal: "Physiological and Biochemical Zoology"
-  year: 2019
-
-- file: Ferretti et al 2019.pdf
-  title: >
-    Sleeping unsafely tucked in to conserve energy in a nocturnal migratory songbird
-  author: "Andrea Ferretti, Niels C. Rattenborg, Thomas Ruf, Scott R. McWilliams, Massimiliano Cardinale, Leonida Fusani"
-  journal: "Current Biology"
-  year: 2019
-
-- file: Lamb et al 2019.pdf
-  title: >
-    Spatially explicit network analysis reveals multi-species annual cycle movement patterns of sea ducks
-  author: "Juliet S. Lamb, Peter W. C. Paton, Jason E. Osenkowski, Shannon S. Badzinski, Alicia M. Berlin, Tim Bowman, Chris Dwyer, Luke J. Fara, Scott G. Gilliland, Keven Kenow, Christine Lepage, Mark L. Mallory, Glenn H. Olsen, Matthew C. Perry, Scott A. Petrie, Jean-Pierre L. Savard, Lucas Savoy, Michael Schummer, Caleb S. Spiegel, and Scott R. McWilliams"
-  journal: "Ecological Applications"
-  year: 2019
-
-- file: Masse et al 2019.pdf
-  title: >
-    Habitat selection of American Woodcock and its implications for habitat management where young yorests are rare
-  author: "Roger J. Masse, Brian C. Tefft, Bill Buffum, and Scott R. McWilliams"
-  journal: "Proceedings of the American Woodcock Symposium"
-  year: 2019
-
-- file: Carter et al 2020.pdf
-  title: >
-    The effects of dietary linoleic acid and hydrophilic antioxidants on basal, peak, and sustained metabolism in flight-trained European Starlings
-  author: "Wales A. Carter, Kristen J. DeMoranville, Barbara J. Pierce, and Scott R. McWilliams"
-  journal: "Ecology and Evolution"
-  year: 2020
-
-- file: Ferretti et al 2020.pdf
-  title: >
-    Energy stores, oxidative balance, and sleep in migratory Garden Warblers (Sylvia borin) and Whitethroats (Sylvia communis) at a spring stopover site
-  author: "Andrea Ferretti, Scott R. McWilliams, Niels C. Rattenborg, Ivan Maggini, Massimiliano Cardinale and Leonida Fusani"
-  journal: "Integrative Organismal Biology"
-  year: 2020
-
-- file: Lamb et al 2020.pdf
-  title: >
-    Implanted satellite transmitters affect sea duck movement patterns at short and long timescales
-  author: "Juliet S. Lamb, Peter W. C. Paton, Jason E. Osenkowski, Shannon S. Badzinski, Alicia M. Berlin, Tim Bowman, Chris Dwyer, Luke J. Fara, Scott G. Gilliland, Keven Kenow, Christine Lepage, Mark L. Mallory, Glenn H. Olsen, Matthew C. Perry, Scott A. Petrie, Jean-Pierre L. Savard, Lucas Savoy, Michael Schummer, Caleb S. Spiegel, and Scott R. McWilliams"
-  journal: "Ornithological Applications"
-  year: 2020
-
-- file: Lamb et al 2020b.pdf
-  title: >
-    Assessing year-round habitat use by migratory sea ducks in a multi-species context reveals seasonal variation in habitat selection and partitioning
-  author: "Juliet S. Lamb, Peter W. C. Paton, Jason E. Osenkowski, Shannon S. Badzinski, Alicia M. Berlin, Tim Bowman, Chris Dwyer, Luke J. Fara, Scott G. Gilliland, Kevin Kenow, Christine Lepage, Mark L. Mallory, Glenn H. Olsen, Matthew C. Perry, Scott A. Petrie, Jean-Pierre L. Savard, Lucas Savoy, Michael Schummer, Caleb S. Spiegel and Scott R. McWilliams"
+    Evaluating conservation units using network analysis: a sea duck case study
+  author: "Juliet S. Lamb, Clara Cooper-Mullin, Scott G. Gilliland, Alicia M. Berlin, Timothy D. Bowman, W. Sean Boyd, Susan E. W. De La Cruz, Daniel Esler, Joseph R. Evenson, Paul Flint, Christine Lepage, Dustin E. Meattey, Jason E. Osenkowski, Peter W. C. Paton, Matthew C. Perry, Dan Rosenberg, Jean-Pierre L. Savard, Lucas Savoy, Jason Schamber, David H. Ward, John Y. Takekawa, and Scott R. McWilliams"
   journal: "Ecography"
-  year: 2020
+  year: 2024
+  
+- file: Malkoc et al 2024.pdf
+  title: >
+    Commentary on Thoral et al. (2024) ‘The relationship between mitochondrial respiration, resting metabolic rate and blood cell count in great tits’
+  author: "Kasja Malkoc, Michaela Hau, Scott McWilliams, Edyta Teresa Sadowska, Maciej Dzialo, Barbara Pierce, Lisa Trost, Ulf Bauchinger, Eve Udino and Stefania Casagrande"
+  journal: "Biology Open"
+  year: 2024
+
+- file: Bianchini et al 2023.pdf
+  title: >
+    Evaluation of breeding distribution and chronology of North American scoters
+  author: "Kristin Bianchini, Scott G. Gilliland, Alicia M. Berlin, Timothy D. Bowman, W. Sean Boyd, Susan E. W. De La Cruz, Daniel Esler, Joseph R. Evenson, Paul L. Flint, Christine Lepage, Scott R. McWilliams, Dustin E. Meattey, Jason E. Osenkowski, Matthew C. Perry, Jean-François Poulin, Eric T. Reed, Christian Roy, Jean-Pierre L. Savard, Lucas Savoy, Jason L. Schamber, Caleb S. Spiegel, John Takekawa, David H. Ward, and Mark L. Mallory"
+  journal: "Wildlife Biology"
+  year: 2023
+
+- file: Blomgberg et al 2023.pdf
+  title: >
+    The American Woodcock Singing Ground Survey largely conforms to the phenology of male woodcock migration
+  author: "Erik J. Blomberg, Alexander C. Fish, Liam A. Berigan, Amber M. Roth, Rebecca Rau, Sarah J. Clements, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Clayton L. Graham, William Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, Colby Slezak, Josh Stiller, Mathieu Tetreault, and Lisa Williams"
+  journal: "The Journal of Wildlife Management"
+  year: 2023
+
+- file: Casagrande et al 2023.pdf
+  title: >
+    Mitochondrial metabolism in blood more reliably predicts whole-animal energy needs compared to other tissues
+  author: "Stefania Casagrande, Maciej Dzialo, Lisa Trost, Kasja Malkoc, Edyta Teresa, Michaela Hau, Barbara Pierce, Scott McWilliams, and Ulf Bauchinger"
+  journal: "iScience"
+  year: 2023
+
+- file: Dzialo et al 2023.pdf
+  title: >
+    Concerted phenotypic flexibility of avian erythrocyte size and number in response to dietary anthocyanin supplementation
+  author: "Maciej Dzialo, Amadeusz Bryła, Kristen J. DeMoranville, Katherine M. Carbeck, Olivia Fatica, Lisa Trost, Barbara Pierce, Edyta T. Sadowska, Scott R. McWilliams, and Ulf Bauchinger"
+  journal: "Frontiers in Zoology"
+  year: 2023
+
+- file: Grady et al 2022.pdf
+  title: >
+     Defining a flexible notion of "good" STEM writing across context: Lessons learned from a cross-institutial conversation
+  author: "Sara M. Grady, Jenna Morton-Aiken, Caroline Gottschalk Druschke, Ingrid E. Lofgren, Nancy E. Karraker, Scott R. McWilliams, Nedra Reynolds, Elaine Finan, Patti L. Wolter, Donna R. Leff, and Michael Kennedy"
+  journal: "Frontiers in Communication"
+  year: 2022
+
+- file: Graham et al 2022.pdf
+  title: >
+    Cross-seasonal effects in the American Woodcock: Conditions prior to fall migration relate to migration strategy and implications for conservation
+  author: "Clayton L. Graham, Tanner Steeves, and Scott R. McWilliams"
+  journal: "Ornithological Applications"
+  year: 2022
+
+
+
+
+
+
 
 - file: Buffum et al 2021.pdf
   title: >
@@ -544,109 +179,481 @@
   journal: "Journal of Ornithology"
   year: 2021
 
-- file: Grady et al 2022.pdf
+- file: Carter et al 2020.pdf
   title: >
-     Defining a flexible notion of "good" STEM writing across context: Lessons learned from a cross-institutial conversation
-  author: "Sara M. Grady, Jenna Morton-Aiken, Caroline Gottschalk Druschke, Ingrid E. Lofgren, Nancy E. Karraker, Scott R. McWilliams, Nedra Reynolds, Elaine Finan, Patti L. Wolter, Donna R. Leff, and Michael Kennedy"
-  journal: "Frontiers in Communication"
-  year: 2022
+    The effects of dietary linoleic acid and hydrophilic antioxidants on basal, peak, and sustained metabolism in flight-trained European Starlings
+  author: "Wales A. Carter, Kristen J. DeMoranville, Barbara J. Pierce, and Scott R. McWilliams"
+  journal: "Ecology and Evolution"
+  year: 2020
 
-- file: Graham et al 2022.pdf
+- file: Ferretti et al 2020.pdf
   title: >
-    Cross-seasonal effects in the American Woodcock: Conditions prior to fall migration relate to migration strategy and implications for conservation
-  author: "Clayton L. Graham, Tanner Steeves, and Scott R. McWilliams"
+    Energy stores, oxidative balance, and sleep in migratory Garden Warblers (Sylvia borin) and Whitethroats (Sylvia communis) at a spring stopover site
+  author: "Andrea Ferretti, Scott R. McWilliams, Niels C. Rattenborg, Ivan Maggini, Massimiliano Cardinale and Leonida Fusani"
+  journal: "Integrative Organismal Biology"
+  year: 2020
+
+- file: Lamb et al 2020.pdf
+  title: >
+    Implanted satellite transmitters affect sea duck movement patterns at short and long timescales
+  author: "Juliet S. Lamb, Peter W. C. Paton, Jason E. Osenkowski, Shannon S. Badzinski, Alicia M. Berlin, Tim Bowman, Chris Dwyer, Luke J. Fara, Scott G. Gilliland, Keven Kenow, Christine Lepage, Mark L. Mallory, Glenn H. Olsen, Matthew C. Perry, Scott A. Petrie, Jean-Pierre L. Savard, Lucas Savoy, Michael Schummer, Caleb S. Spiegel, and Scott R. McWilliams"
   journal: "Ornithological Applications"
-  year: 2022
+  year: 2020
 
-- file: Bianchini et al 2023.pdf
+- file: Lamb et al 2020b.pdf
   title: >
-    Evaluation of breeding distribution and chronology of North American scoters
-  author: "Kristin Bianchini, Scott G. Gilliland, Alicia M. Berlin, Timothy D. Bowman, W. Sean Boyd, Susan E. W. De La Cruz, Daniel Esler, Joseph R. Evenson, Paul L. Flint, Christine Lepage, Scott R. McWilliams, Dustin E. Meattey, Jason E. Osenkowski, Matthew C. Perry, Jean-François Poulin, Eric T. Reed, Christian Roy, Jean-Pierre L. Savard, Lucas Savoy, Jason L. Schamber, Caleb S. Spiegel, John Takekawa, David H. Ward, and Mark L. Mallory"
-  journal: "Wildlife Biology"
-  year: 2023
-
-- file: Blomgberg et al 2023.pdf
-  title: >
-    The American Woodcock Singing Ground Survey largely conforms to the phenology of male woodcock migration
-  author: "Erik J. Blomberg, Alexander C. Fish, Liam A. Berigan, Amber M. Roth, Rebecca Rau, Sarah J. Clements, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Clayton L. Graham, William Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, Colby Slezak, Josh Stiller, Mathieu Tetreault, and Lisa Williams"
-  journal: "The Journal of Wildlife Management"
-  year: 2023
-
-- file: Casagrande et al 2023.pdf
-  title: >
-    Mitochondrial metabolism in blood more reliably predicts whole-animal energy needs compared to other tissues
-  author: "Stefania Casagrande, Maciej Dzialo, Lisa Trost, Kasja Malkoc, Edyta Teresa, Michaela Hau, Barbara Pierce, Scott McWilliams, and Ulf Bauchinger"
-  journal: "iScience"
-  year: 2023
-
-- file: Dzialo et al 2023.pdf
-  title: >
-    Concerted phenotypic flexibility of avian erythrocyte size and number in response to dietary anthocyanin supplementation
-  author: "Maciej Dzialo, Amadeusz Bryła, Kristen J. DeMoranville, Katherine M. Carbeck, Olivia Fatica, Lisa Trost, Barbara Pierce, Edyta T. Sadowska, Scott R. McWilliams, and Ulf Bauchinger"
-  journal: "Frontiers in Zoology"
-  year: 2023
-
-- file: Clements et al 2024.pdf
-  title: >
-    Satellite tracking of American Woodcock reveals a gradient of migration strategies
-  author: "Sarah J. Clements, Liam A. Berigan, Alexander C. Fish, Rachel L. Darling, Amber M. Roth, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Kayleigh Filkins, Clayton L. Graham, William Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, David Sausville, Colby Slezak, Josh Stiller, Jacob Straub, Mathieu Tetreault, Dawn Washington, Lisa Williams, and Erik J. Blomberg"
-  journal: "Ornithology"
-  year: 2024
-
-- file: Fish et al 2024.pdf
-  title: >
-    American woodcock migration phenology in eastern North America: implications for hunting season timing
-  author: "Alexander C. Fish, Amber M. Roth, Greg Balkcom,  Liam Berigan, Kylie Brunette, Sarah Clements, Gary Costanzo, Clayton L. Graham, William F. Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, Josh Stiller, Dawn Washington, Lisa Williams, Erik J. Blomberg"
-  journal: "Journal of Wildlife Management"
-  year: 2024
-
-- file: Harrington et al 2024.pdf
-  title: >
-    A new approach for increasing graduate students’ science communication capacity and confidence
-  author: "Erin R. Harrington, Scott R. McWilliams, Nancy E. Karraker, Caroline Gottschalk Druschke, Jenna Morton-Aiken, Elaine Finan, and Ingrid E. Lofgren"
-  journal: "Peer J"
-  year: 2024
-
-- file: Lamb et al 2024.pdf
-  title: >
-    Evaluating conservation units using network analysis: a sea duck case study
-  author: "Juliet S. Lamb, Clara Cooper-Mullin, Scott G. Gilliland, Alicia M. Berlin, Timothy D. Bowman, W. Sean Boyd, Susan E. W. De La Cruz, Daniel Esler, Joseph R. Evenson, Paul Flint, Christine Lepage, Dustin E. Meattey, Jason E. Osenkowski, Peter W. C. Paton, Matthew C. Perry, Dan Rosenberg, Jean-Pierre L. Savard, Lucas Savoy, Jason Schamber, David H. Ward, John Y. Takekawa, and Scott R. McWilliams"
+    Assessing year-round habitat use by migratory sea ducks in a multi-species context reveals seasonal variation in habitat selection and partitioning
+  author: "Juliet S. Lamb, Peter W. C. Paton, Jason E. Osenkowski, Shannon S. Badzinski, Alicia M. Berlin, Tim Bowman, Chris Dwyer, Luke J. Fara, Scott G. Gilliland, Kevin Kenow, Christine Lepage, Mark L. Mallory, Glenn H. Olsen, Matthew C. Perry, Scott A. Petrie, Jean-Pierre L. Savard, Lucas Savoy, Michael Schummer, Caleb S. Spiegel and Scott R. McWilliams"
   journal: "Ecography"
-  year: 2024
+  year: 2020
 
-- file: Malkoc et al 2024.pdf
+- file: Brenner and McWilliams 2019.pdf
   title: >
-    Commentary on Thoral et al. (2024) ‘The relationship between mitochondrial respiration, resting metabolic rate and blood cell count in great tits’
-  author: "Kasja Malkoc, Michaela Hau, Scott McWilliams, Edyta Teresa Sadowska, Maciej Dzialo, Barbara Pierce, Lisa Trost, Ulf Bauchinger, Eve Udino and Stefania Casagrande"
-  journal: "Biology Open"
-  year: 2024
-
-- file: Berigan et al 2025.pdf
-  title: >
-    Low migratory flight altitudes may explain increased collision risk for Scolopax minor (American Woodcock)
-  author: "Liam Berigan, Sarah Clements, Rachel Darling, Alexander Fish, Amber Roth, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Kayleigh Filkins, Clayton Graham, William Harvey, Michael Hook, Douglas Howell, Seth Maddox, Scott R. McWilliams, Shawn Meyer, Theodore Nichols, J. Bruce Pollard, Christian Roy, David Sausville, Colby Slezak, Josh Stiller, Jacob Straub, Mathieu Tetreault, Dawn Washington, Lisa Williams, and Erik Blomberg"
-  journal: "Ornithological Applications"
-  year: 2025
-
-- file: Corcoran et al 2025.pdf
-  title: >
-    Eastern Whip-poor-will (Antrostomus vociferus) nesting ecology: behavior of nesting adults and chick growth
-  author: "Liam S. Corcoran, Megan E. Gray, and Scott R. McWilliams"
+    Independence day: Post-fledging movements and behavior of adult Eastern Towhees (Pipilo erythrophthalmus) in landscapes managed for American Woodcock (Scolopax minor)
+  author: "Stephen J. Brenner and Scott R. McWilliams"
   journal: "The Wilson Journal of Ornithology"
-  year: 2025
+  year: 2019
 
-- file: Finn et al 2025.pdf
+- file: Brenner et al 2019.pdf
   title: >
-    Plant constituent predictors in the winter diet selection of the imperiled New England Cottontail (Sylvilagus transitionalis)
-  author: "Wendy C. Finn, Thomas J. McGreevy Jr, , Brian C. Tefft, Thomas P. Husband, Wales A. Carter, and Scott R. McWilliams"
-  journal: "Journal of Mammalogy"
-  year: 2025
+    Landscape context matters when American Woodcock select singing grounds: Results from a reciprocal transplant experiment
+  author: "Stephen J. Brenner, Brian C. Tefft, and Scott R. McWilliams"
+  journal: "Ornithological Applications"
+  year: 2019
 
-- file: Gray et al 2025.pdf
+- file: Brenner et al 2019b.pdf
   title: >
-    Under the umbrella: Does management for American woodcock increase reproductive success of a declining songbird?
-  author: "Megan E. Gray, Liam S. Corcoran, and Scott R. McWilliams"
+    Observations of certain breeding behaviors in a bilateral gynandromorph Eastern Towhee (Pipilo erythrophthalmus)
+  author: "Stephen J. Brenner, Olivia A. DaRugna, and Scott R. McWilliams"
+  journal: "The Wilson Journal of Ornithology"
+  year: 2019
+
+- file: Buffum et al 2019.pdf
+  title: >
+    Mobilizing private landowners to create American Woodcock habitat: Lessions learned in Rhode Island, USA
+  author: "Bill Buffum, Brian C. Tefft, Roger J. Masse and Scott R. McWilliams"
+  journal: "Proceedings of the American Woodcock Symposium"
+  year: 2019
+
+- file: Carter et al 2019.pdf
+  title: >
+    The importance of isotopic turnover for understanding key aspects of animal ecology and nutrition 
+  author: "Wales A. Carter, Ulf Bauchinger, and Scott R. McWilliams"
+  journal: "Diversity"
+  year: 2019
+
+- file: Carter et al 2019b.pdf
+  title: >
+    Dynamics of individual fatty acids in muscle fat stores and membranes of a songbird and its functional and ecological importance
+  author: "Wales A. Carter, John P. Whiteman, Clara Cooper-Mullin, Seth D. Newsome, and Scott R. McWilliams"
+  journal: "Physiological and Biochemical Zoology"
+  year: 2019
+
+- file: Ferretti et al 2019.pdf
+  title: >
+    Sleeping unsafely tucked in to conserve energy in a nocturnal migratory songbird
+  author: "Andrea Ferretti, Niels C. Rattenborg, Thomas Ruf, Scott R. McWilliams, Massimiliano Cardinale, Leonida Fusani"
+  journal: "Current Biology"
+  year: 2019
+
+- file: Lamb et al 2019.pdf
+  title: >
+    Spatially explicit network analysis reveals multi-species annual cycle movement patterns of sea ducks
+  author: "Juliet S. Lamb, Peter W. C. Paton, Jason E. Osenkowski, Shannon S. Badzinski, Alicia M. Berlin, Tim Bowman, Chris Dwyer, Luke J. Fara, Scott G. Gilliland, Keven Kenow, Christine Lepage, Mark L. Mallory, Glenn H. Olsen, Matthew C. Perry, Scott A. Petrie, Jean-Pierre L. Savard, Lucas Savoy, Michael Schummer, Caleb S. Spiegel, and Scott R. McWilliams"
+  journal: "Ecological Applications"
+  year: 2019
+
+- file: Masse et al 2019.pdf
+  title: >
+    Habitat selection of American Woodcock and its implications for habitat management where young yorests are rare
+  author: "Roger J. Masse, Brian C. Tefft, Bill Buffum, and Scott R. McWilliams"
+  journal: "Proceedings of the American Woodcock Symposium"
+  year: 2019
+
+- file: Carter et al 2018.pdf
+  title: >
+    Turnover of muscle lipids and response to exercise differ between neutral and polar fractions in a model songbird, the zebra finch
+  author: "Wales A. Carter, Clara Cooper-Mullin and Scott R. McWilliams"
+  journal: "Journal of Experimental Biology"
+  year: 2018
+
+- file: Druschke et al 2018.pdf
+  title: >
+    Better science through rhetoric: A new model and pilot program for training graduate student science writers
+  author: "Caroline Gottschalk Druschke, Nedra Reynolds, Jenna Morton-Aiken, Ingrid E. Lofgren, Nancy E. Karraker, and Scott R. McWilliams"
+  journal: "Technical Communication Quarterly"
+  year: 2018
+
+- file: Beuth et al 2017.pdf
+  title: >
+    Habitat use and movements of Common Eiders wintering in southern New England
+  author: "Joshua M. Beuth, Scott R. McWilliams, Peter W. C. Paton, and Jason E. Osenkowski"
+  journal: "The Journal of Wildlife Management"
+  year: 2017
+
+- file: Buffum and McWilliams 2017.pdf
+  title: >
+    Assessing the density of vegetation for wildlife cover in regenerating clearcuts via analysis of digital imagery
+  author: "Bill Buffum and Scott R. McWilliams"
+  journal: "Current Trends in Forest Research"
+  year: 2017
+
+- file: Cohen et al 2017.pdf
+  title: >
+    How do en route events around the Gulf of Mexico influence migratory landbird populations?
+  author: "Emily B. Cohen, Wylie C. Barrow, Jr., Jeffrey J. Buler, Jill L. Deppe, Andrew Farnsworth, Peter P. Marra, Scott R. McWilliams, David W. Mehlman, R. Randy Wilson, Mark S. Woodrey, and Frank R. Moore"
+  journal: "Ornithological Applications"
+  year: 2017
+
+  - file: Beuth et al 2016.pdf
+  title: >
+    Body composition dynamics of Common Eider during winter: An application of the deuterium dilution method
+  author: "Joshua M. Beuth, Peter W. C. Paton, Jason E. Osenkowski, and Scott R. McWilliams"
+  journal: "Wildlife Society Bulletin"
+  year: 2016
+
+- file: Beuth et al 2016b.pdf
+  title: >
+    Validating the deuterium dilution method to measure body composition of Common Eider
+  author: "Joshua M. Beuth, Peter W. C. Paton, Jason E. Osenkowski, and Scott R. McWilliams"
+  journal: "Wildlife Society Bulletin"
+  year: 2016
+
+- file: Cooper-Mullin and McWilliams 2016.pdf
+  title: >
+    The role of the antioxidant system during intense endurance exercise: lessons from migrating birds
+  author: "Clara Cooper-Mullin and Scott R. McWilliams"
+  journal: "Journal of Experimental Biology"
+  year: 2016
+
+- file: Cutting et al 2016.pdf
+  title: >
+    Niche shifts and energetic condition of songbirds in response to phenology of food-resource availability in a high elevation sagebrush ecosystem
+  author: "Kyle A. Cutting, Michelle L. Anderson, Erik A. Beever, Sean R. Schroff, Eric Klaphake, Nathan Korb, and Scott McWilliams"
+  journal: "Ornithological Advances"
+  year: 2016
+
+- file: Gormezano et al 2016.pdf
+  title: >
+    Costs of locomotion in polar bears: when do the costs outweigh the benefits of chasing down terrestrial prey?
+  author: "Linda J. Gormezano, Scott R. McWilliams, David T. Iles and Robert F. Rockwell"
+  journal: "Conservation Physiology"
+  year: 2016
+
+- file: Kohl et al 2016.pdf
+  title: >
+    Modulation of digestive enzyme activities in the avian digestive tract in relation to diet composition and quality
+  author: "Kevin D. Kohl, M. Eugenia Ciminari, Juan G. Chediack, James O. Leafloor, William H. Karasov, Scott R. McWilliams, and Enrique Caviedes‑Vidal"
+  journal: "Journal of Comparative Physiology"
+  year: 2016
+
+- file: Masse et al 2015.pdf
+  title: >
+    Higher bird abundance and diversity where American Woodcock sing: Fringe benefits of managing forests for woodcock 
+  author: "Roger J. Masse, Brian C. Tefft, and Scott R. McWilliams"
+  journal: "The Journal of Wildlife Management"
+  year: 2015
+
+- file: Buffum et al 2014.pdf
+  title: >
+    Encouraging family forest owners to create early successional wildlife habitat in southern New England
+  author: "Bill Buffum, Christopher Modisette, and Scott R. McWilliams"
+  journal: "PLOS One"
+  year: 2014
+
+- file: Coluccy et al 2014.pdf
+  title: >
+    True metabolizable energy of American Black Duck foods
+  author: "John M. Coluccy, Michael V. Castelli, Paul M. Castelli, John W. Simpson, Scott R. McWilliams, and Llwellyn Armstrong"
+  journal: "The Journal of Wildlife Management"
+  year: 2014
+
+- file: Coon et al 2014.pdf
+  title: >
+    Introduced and native congeners use different resource allocation strategies to maintain performance during infection
+  author: "Courtney A. C. Coon, Amber J. Brace, Scott R. McWilliams, Marshall D. McCue, and Lynn B. Martin"
+  journal: "Division of Comparative Physiology and Biochemistry, Society for Integrative and Comparative Biology"
+  year: 2014
+
+- file: Ladin et al 2014.pdf
+  title: >
+    Regional and intraseasonal variation in diet of wintering and staging Atlantic Brant
+  author: "Zachary S. Ladin, Christopher K. Williams, Paul M. Castelli, Kristopher J. Winiarski, Jay Osenkowski and Scott R. McWilliams"
   journal: "Journal of Wildlife Management"
-  year: 2025
+  year: 2014
+
+- file: Loring et al 2014.pdf
+  title: >
+    Habitat use and selection of Black Scoters in southern New England and siting of offshore wind energy facilities
+  author: "Pamela H. Loring, Peter W. C. Paton, Jason E. Osenkowski, Scott G. Gilliland, Jean-Pierre L. Savard, and Scott R. McWilliams"
+  journal: "The Journal of Wildlife Management"
+  year: 2014
+
+- file: Alan and McWilliams 2013.pdf
+  title: >
+    Oxidative stress, circulating antioxidants, and dietary preferences in songbirds
+  author: "Rebecca R. Alan and Scott R. McWilliams"
+  journal: "Comparative Biochemistry and Physiology, Part B"
+  year: 2013
+
+- file: Alan et al 2013.pdf
+  title: >
+    The importance of antioxidants for avian fruit selection during autumn migration
+  author: "Rebecca R. Alan, Scott R. McWilliams, and Kevin J. McGraw"
+  journal: "The Wilson Journal of Ornithology"
+  year: 2013
+
+- file: Ben-Hamo et al 2013.pdf
+  title: >
+    Ambient temperature and nutritional stress influence fatty acid composition of structural and fuel lipids in Japanese quail (Coturnix japonica) tissues
+  author: "Miriam Ben-Hamo, Marshall D. McCue,  Inna Khozin-Goldberg, Scott R. McWilliams, and Berry Pinshow"
+  journal: "Comparative Biochemistry and Physiology, Part A"
+  year: 2013
+
+- file: Bolser et al 2013.pdf
+  title: >
+    Birds select fruits with more anthocyanins and phenolic compounds during autumn migration
+  author: "Jessica A. Bolser, Rebecca R. Alan, Adam. D. Smith, Liya Li, Navindra P. Seeram, and Scott R. McWilliams"
+  journal: "The Wilson Journal of Ornithology"
+  year: 2013
+
+- file: Hall et al 2013.pdf
+  title: >
+    Site-specific regulation of adult neurogenesis by dietary fatty acid content, vitamin E and flight exercise in European Starlings
+  author: "Zachary J. Hall, Ulf Bauchinger, Alexander R. Gerson, Edwin R. Price, Lillie A. Langlois, Michelle Boyles, Barbara Pierce, Scott R. McWilliams, David F. Sherry1, and Scott A. MacDougall-Shackleton"
+  journal: "European Journal of Neuroscience"
+  year: 2013
+
+- file: Loring et al 2013.pdf
+  title: >
+    Densities of wintering scoters in relation to benthic prey assemblages in a North Atlantic estuary
+  author: "Pamela H. Loring, Peter W. C. Paton, Scott R. McWilliams, Richard A. McKinney, and Candace A. Oviatt"
+  journal: "Waterbirds"
+  year: 2013
+
+- file: Masse et al 2013.pdf
+  title: >
+    Why woodcock commute: testing the foraging-benefit and predation-risk hypotheses 
+  author: "Roger J. Masse, Brian C. Tefft, José A. Amador, and Scott R. McWilliams"
+  journal: "Behavioral Ecology"
+  year: 2013
+
+- file: Bauchinger and McWilliams 2012.pdf
+  title: >
+    Tissue-specific mass changes during fasting: The protein turnover hypothesis
+  author: "Ulf Bauchinger and Scott R. McWilliams"
+  journal: "The Comparative Physiology of Fasting and Starvation"
+  year: 2012
+
+- file: Blomgberg et al 2012.pdf
+  title: >
+    Evaluating spatially explicit viability of a declining Ruffed Grouse population
+  author: "Erik J. Blomberg, Brian C. Tefft, J. Michael Reed, and Scott R. McWilliams"
+  journal: "The Journal of Wildlife Management"
+  year: 2012
+
+- file: McKinney and McWilliams 2012.pdf
+  title: >
+    Energy-based carrying capacities of Bufflehead Bucephala albeola wintering habitats
+  author: "Richard A. McKinney and Scott R. McWilliams"
+  journal: "The Open Ornithology Journal"
+  year: 2012
 
 
+
+
+- file: Ben-Hamo et al 2011.pdf
+  title: >
+    Dietary fatty acid composition influences tissue lipid profiles and regulation of body temperature in Japanese quail
+  author: "Miriam Ben-Hamo, Marshall D. McCue, Scott R. McWilliams, and Berry Pinshow"
+  journal: "Journal of Comparative Physiology B"
+  year: 2011
+
+- file: Ladin et al 2011.pdf
+  title: >
+    Time energy budgets and food use of Atlantic Brant across their wintering range
+  author: "Zachary S. Ladin, Paul M. Castelli, Scott R. McWilliams, Christopher K. Williams"
+  journal: "Journal of Wildlife Management"
+  year: 2011
+
+- file: Aamidor et al 2011.pdf
+  title: >
+    During stopover, migrating Blackcaps adjust behavior and intake of food depending on the content of protein in their diets
+  author: "Sarah E. Aamidor, Ulf Bauchinger, Ortal Mizrahy, Scott R. McWilliams, and Berry Pinshow"
+  journal: "Integrative and Comparative Biology"
+  year: 2011
+
+- file: Bauchinger et al 2011.pdf
+  title: >
+    Reduced body mass gain in small passerines during migratory stopover under simulated heat wave conditions
+  author: "Ulf Bauchinger, Scott R. McWilliams, and Berry Pinshow"
+  journal: "Comparative Biochemistry and Physiology, Part A"
+  year: 2011
+
+- file: Bauchinger et al 2011b.pdf
+  title: >
+    Flight muscle shape reliably predicts flight muscle mass of migratory songbirds: a new tool for field ornithologists
+  author: "Ulf Bauchinger, Scott R. McWilliams, Harold Kolb, Vladimir M. Popenko, Edwin R. Price, and Herbert Biebach"
+  journal: "Journal of Ornithology"
+  year: 2011
+
+- file: McCue et al 2011b.pdf
+  title: >
+    Ontogeny and nutritional status influence oxidative kinetics of nutrients and whole-animal bioenergetics in Zebra Finches, Taeniopygia guttata: New applications for 13C breath testing
+  author: "Marshall D. McCue, Scott R. McWilliams and Berry Pinshow"
+  journal: "Physiological and Biochemical Zoology"
+  year: 2011
+
+- file: McCue et al 2011.pdf
+  title: >
+    A mass balance approach to identify and compare differential routing of 13C-labeled carbohydrates, lipids, and proteins in vivo
+  author: "Marshall D. McCue, Adam Smith, Richard McKinney, Boris Rewald, Berry Pinshow, and Scott R. McWilliams"
+  journal: "Physiological and Biochemical Zoology"
+  year: 2011
+
+- file: Bauchinger and McWilliams 2010.pdf
+  title: >
+    Extent of phenotypic flexibility during long-distance flight is determined by tissue-specific turnover rates: A new hypothesis
+  author: "Ulf Bauchinger and Scott R. McWilliams"
+  journal: "Journal of Avian Biology"
+  year: 2010
+
+- file: Bauchinger et al 2010.pdf
+  title: >
+    Exposure to cold but not exercise increases carbon turnover rates in specific tissues of a passerine
+  author: "Ulf Bauchinger, Jochen Keil and Robert A. McKinney, Jörg M. Starck, and Scott R. McWilliams"
+  journal: "The Journal of Experimental Biology"
+  year: 2010
+
+- file: Ben-Hamo et al 2010.pdf
+  title: >
+    Fasting triggers hypothermia, and ambient temperature modulates its depth in Japanese quail (Coturnix japonica)
+  author: "Miriam Ben-Hamo, Berry Pinshow, Marshall D. McCue, Scott R. McWilliams, and Ulf Bauchinger"
+  journal: "Comparative Biochemistry and Physiology, Part A"
+  year: 2010
+
+- file: DesRochers et al 2010.pdf
+  title: >
+    Evaluating if energy and protein limit abundance of Hawaiian Moorhen
+  author: "David W. DesRochers, Scott R. McWilliams, and J. Michael Reed"
+  journal: "Journal of Wildlife Management"
+  year: 2010
+
+- file: Langlois and McWilliams 2010.pdf
+  title: >
+    Protein requirements of an omnivorous and granivorous songbird decrease during migration
+  author: "Lillie A. Langlois and Scott R. McWilliams"
+  journal: "The Auk"
+  year: 2010
+
+- file: McCue et al 2010.pdf
+  title: >
+    Tracking the oxidative kinetics of carbohydrates, amino acids and fatty acids in the house sparrow using exhaled 13CO2
+  author: "Marshall D. McCue, Orit Sivan, Scott R. McWilliams and Berry Pinshow"
+  journal: "The Journal of Experimental Biology"
+  year: 2010
+
+- file: Bauchinger and McWilliams 2009.pdf
+  title: >
+    Carbon turnover in tissues of a passerine bird: Allometry, isotopic clocks, and phenotypic flexibilty in organ size
+  author: "Ulf Bauchinger and Scott R. McWilliams"
+  journal: "Physiological and Biochemical Zoology"
+  year: 2009
+
+- file: Blomgberg et al 2009.pdf
+  title: >
+    Predicting landscape-scale habitat distribution for ruffed grouse (Bonasa umbellus) using presence-only data
+  author: "Erik J. Blomberg, Brian C. Tefft, Erik G. Endrulat, and Scott R. McWilliams"
+  journal: "Wildlife Biology"
+  year: 2009
+
+- file: DesRochers et al 2009.pdf
+  title: >
+    Macronutrient profiles of wetland plants consumed by the Hawaiian Moorhen (Gallinula Chloropus Sandvivensis)
+  author: "David W. DesRochers, Scott R. McWilliams, Michael D. Silbernagle, and J. Michael Reed"
+  journal: "Wetlands"
+  year: 2009
+
+- file: McCue et al 2009.pdf
+  title: >
+    Effect of dietary fatty acid composition on fatty acid profiles of polar and neutral lipid tissue fractions in zebra finches, Taeniopygia guttata
+  author: "Marshall D. McCue, Oren Amitai, Inna Khozin-Goldberg, Scott R. McWilliams, Berry Pinshowa"
+  journal: "Comparative Biochemistry and Physiology, Part A"
+  year: 2009
+
+- file: McKinney et al 2007.pdf
+  title: >
+    Habitat characteristics associated with the distribution and abundance of Histrionicus histrionicus (Harlequin Ducks) wintering in southern New England
+  author: "Richard A. McKinney, Scott R. McWilliams, and Michael A. Charpentier"
+  journal: "Northeastern Naturalist"
+  year: 2007
+
+- file: McKinney et al 2006.pdf
+  title: >
+    Waterfowl–habitat associations during winter in an urban North Atlantic estuary 
+  author: "Richard A. McKinney, Scott R. McWilliams, and Michael A. Charpentier"
+  journal: "Biological Conservation"
+  year: 2006
+
+- file: Endrulat et al 2005.pdf
+  title: >
+    Habitat selection and home range size of Ruffed Grouse in Rhode Island
+  author: "Scott R. McWilliams"
+  journal: "Northeastern Naturalist"
+  year: 2005
+
+- file: Karasov and McWilliams 2005.pdf
+  title: >
+    Digestive constraints in mammalian and avian ecology
+  author: "William H. Karasov and Scott R. McWilliams"
+  journal: "Physiological and Ecological Adaptations to Feeding to Vertebrates"
+  year: 2005
+
+- file: McKinney and McWilliams 2005.pdf
+  title: >
+    A new model to estimate daily energy expenditure for wintering waterfowl
+  author: "Richard A. McKinney and Scott R. McWilliams"
+  journal: "Wilson Bulletin"
+  year: 2005
+
+- file: McKinney et al 2004.pdf
+  title: >
+    Allometric length-weight relationship for benthic prey of aquatic wildlife in coastal marine habitats
+  author: "Richard A. McKinney, Sarah M. Glatt, and Scott R. McWilliams"
+  journal: "Wildlife Biology"
+  year: 2004
+
+- file: ELS Vert Nutrition 2002.pdf
+  title: >
+    Ecology of vertebrate nutrition
+  author: "Scott R. McWilliams"
+  journal: "Encyclopedia of Life Sciences"
+  year: 2002
+
+- file: Frazier and McWilliams 2002.pdf
+  title: >
+    Determinants of dietary preference in Yellow-rumped Warblers
+  author: "Kim I. Frazer and Scott R. McWilliams"
+  journal: "Wilson Bulletin"
+  year: 2002  
+
+- file: McW and Karasov 2001.pdf
+  title: >
+    Phenotypic flexibility in digestive system structure and function in migratory birds and its ecological significance
+  author: "Scott R. McWilliams and William H. Karasov"
+  journal: "Comparative Biochemistry and Physiology Part A"
+  year: 2001
+
+- file: Afik et al 1997.pdf
+  title: >
+    A test for passive absorption of glucose in Yellow-rumped Warblers and its ecological implications 
+  author: "Daniel Afik, Scott R. McWilliams, William H. Karasov"
+  journal: "Physiological Zoology"
+  year: 1997
+
+- file: McWilliams 1992.pdf
+  title: >
+    Courtship behavior of the small-mouthed salamander (Ambystoma texanum): The effects of conspecific males on male mating tactics
+  author: "Scott R. McWilliams"
+  journal: "Behavior"
+  year: 1992
