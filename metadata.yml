@@ -19,11 +19,25 @@
   journal: "Journal of Mammalogy"
   year: 2025
 
+- file: Slezak et al 2025.pdf
+  title: >
+    Mismatch between strong nest-site selection and low survival of nests and broods for Scolopax minor (American Woodcock) and its implications for conservation
+  author: "Colby R. Slezak, Ian M. Delmonico, Jennifer E. Kilburn, and Scott R. McWilliams"
+  journal: "Ornithological Applications"
+  year: 2025
+
 - file: Gray et al 2025.pdf
   title: >
     Under the umbrella: Does management for American woodcock increase reproductive success of a declining songbird?
   author: "Megan E. Gray, Liam S. Corcoran, and Scott R. McWilliams"
   journal: "Journal of Wildlife Management"
+  year: 2025
+
+- file: Thompson et al 2025.pdf
+  title: >
+    Digesting Nutritional Ecology: The past, present and future of wildlife nutritional ecology
+  author: "Daniel P. Thompson, Kristin Denryter, and Scott R. McWilliams"
+  journal: "The Wildlife Professional"
   year: 2025
 
 - file: Clements et al 2024.pdf
@@ -110,6 +124,20 @@
   journal: "Ornithological Applications"
   year: 2022
 
+- file: Price et al 2022.pdf
+  title: >
+    The effects of training, acute exercise and dietary fatty acid composition on muscle lipid oxidative capacity in European Starlings
+  author: "Edwin R. Price, Ulf Bauchinger, Scott R. McWilliams, Michelle L. Boyles, Lillie A. Langlois, Alexander R. Gerson and Christopher G. Guglielmo"
+  journal: "The Journal of Experimental Biology"
+  year: 2022
+
+- file: Suldovsky et al 2022.pdf
+  title: >
+    Editorial: Helping scientists to communicate well for all considered: Strategic science communication in an age of environmental and health crises
+  author: "Brianne Suldovsky, Marcia Allison, Marina Joubert, Ingrid E. Lofgren and Scott McWilliams"
+  journal: "Frontiers in Communications"
+  year: 2022
+
 - file: Buffum et al 2021.pdf
   title: >
     Novel use of species distribution modeling to identify high priority sites for American Woodcock habitat management
@@ -190,9 +218,15 @@
 - file: Mizrahy et al 2021.pdf
   title: >
     Availability of water affects renewal of tissues in migratory Blackcaps during stopover
-  author: "Ortal Mizrahy, Ulf Bauchinger, Sarah E. Aamidor, Scott R. McWilliams, and
-Berry Pinshow"
+  author: "Ortal Mizrahy, Ulf Bauchinger, Sarah E. Aamidor, Scott R. McWilliams, and Berry Pinshow"
   journal: "Integrative and Comparative Biology"
+  year: 2021
+
+- file: Roelandt et al 2021.pdf
+  title: >
+    Measuring circulating triglycerides in free‑living birds: Evaluation of a field‑usable point‑of‑care analyzer for American woodcock
+  author: "Christopher M. Roelandt, Amber M. Roth, Scott R. McWilliams, and Jill C. Witt"
+  journal: "Journal of Ornithology"
   year: 2021
 
 - file: Carter et al 2020.pdf
@@ -293,6 +327,13 @@ Berry Pinshow"
   journal: "Ornithological Applications"
   year: 2019
 
+- file: Smith et al 2019.pdf
+  title: >
+    Modeling spatiotemporal abundance of mobile wildlife in highly variable environments using boosted GAMLSS hurdle models
+  author: "Adam D. Smith, Benjamin Hofner, Juliet S. Lamb, Jason Osenkowski, Taber Allison, Giancarlo Sadoti, Scott R. McWilliams and Peter W. C. Paton"
+  journal: "Ecology and Evolution"
+  year: 2019
+
 - file: Carter et al 2018.pdf
   title: >
     Turnover of muscle lipids and response to exercise differ between neutral and polar fractions in a model songbird, the zebra finch
@@ -377,11 +418,53 @@ Berry Pinshow"
   journal: "Journal of Comparative Physiology"
   year: 2016
 
+- file: Skrip and McWilliams 2016.pdf
+  title: >
+    Oxidative balance in birds: an atoms-to-organisms-to-ecology primer for ornithologists
+  author: "Megan M. Skrip and Scott R. McWilliams"
+  journal: "Journal of Field Ornithology"
+  year: 2016
+
+- file: Skrip et al 2016.pdf
+  title: >
+    Dietary antioxidants and flight exercise in female birds affect allocation of nutrients to eggs: how carry-over effects work
+  author: "Megan M. Skrip, Navindra P. Seeram, Tao Yuan, Hang Ma, and Scott R. McWilliams"
+  journal: "Journal of Experimental Biology"
+  year: 2016
+
 - file: Masse et al 2015.pdf
   title: >
     Higher bird abundance and diversity where American Woodcock sing: Fringe benefits of managing forests for woodcock 
   author: "Roger J. Masse, Brian C. Tefft, and Scott R. McWilliams"
   journal: "The Journal of Wildlife Management"
+  year: 2015
+
+- file: Skrip et al 2015.pdf
+  title: >
+    Access to water affects the condition dependency of nocturnal restlessness in Garden Warblers on a Mediterranean island stopover
+  author: "Megan M. Skrip, Ulf Bauchinger, Wolfgang Goymann, Leonida Fusani, and Scott R. McWilliams"
+  journal: "Journal of Ornithology"
+  year: 2015
+
+- file: Skrip et al 2015b.pdf
+  title: >
+    Migrating songbirds on stopover prepare for, and recover from, oxidative challenges posed by long-distance flight
+  author: "Megan M. Skrip, Ulf Bauchinger, Wolfgang Goymann, Leonida Fusani, Massimiliano Cardinale, Rebecca R. Alan, and Scott R. McWilliams"
+  journal: "Ecology and Evolution"
+  year: 2015
+
+- file: Smith and McWilliams 2015.pdf
+  title: >
+    Recommended plantings for migratory songbird habitat management
+  author: "Susan B. Smith and Scott R. McWilliams"
+  journal: "Rochester Institute of Technology and University of Rhode Island"
+  year: 2015
+
+- file: Smith et al 2015.pdf
+  title: >
+    Using land-based surveys to assess sea duck abundance and behavior in nearshore waters of southern New England, USA
+  author: "Adam D. Smith, Scott R. McWilliams, Kristopher J. Winiarski, Carol L. Trocki, Brian Harris, Jason E. Osenkowski and Peter W. C. Paton"
+  journal: "Waterbirds"
   year: 2015
 
 - file: Buffum et al 2014.pdf
@@ -431,6 +514,55 @@ Berry Pinshow"
     The fat of the matter: How dietary fatty acids can affect exercise performance
   author: "Barbara J. Pierce and Scott R. McWilliams"
   journal: "Integrative and Comparative Biology"
+  year: 2014
+
+- file: Richman et al 2014.pdf
+  title: >
+    Ecological implications of reduced forage quality on growth and survival of sympatric geese
+  author: "Samantha E. Richman, James O. Leafloor, William H. Karasov, and Scott R. McWilliams"
+  journal: "Journal of Animal Ecology"
+  year: 2014
+
+- file: Smith and McWilliams 2014.pdf
+  title: >
+    What to do when stopping over: behavioral decisions of a migrating songbird during stopover are dictated by initial change in their body condition and mediated by key environmental conditions
+  author: "Adam D. Smith and Scott R. McWilliams"
+  journal: "Behavioral Ecology"
+  year: 2014
+
+- file: Smith and McWilliams 2014b.pdf
+  title: >
+    Fruit removal rate depends on neighborhood fruit density, frugivore abundance, and spatial context
+  author: "Adam D. Smith and Scott R. McWilliams"
+  journal: "Oecologia"
+  year: 2014
+
+- file: Smith et al 2014.pdf
+  title: >
+    Using nocturnal flight calls to assess the fall migration of warblers and sparrows along a coastal ecological barrier
+  author: "Adam D. Smith, Peter W. C. Paton, and Scott R. McWilliams"
+  journal: "PLoS ONE"
+  year: 2014
+
+- file: Williams et al 2014.pdf
+  title: >
+    Estimating habitat carrying capacity for migrating and wintering waterfowl: Considerations, pitfalls and improvements
+  author: "Christopher K. Williams, Bruce D. Dugger, Michael G. Brasher, John M. Coluccy, Dane M. Cramer, John M. Eadies, Matthew J. Gray, Heath M. Hagy, Mark Livolsi, Scott R. McWilliams, Mark Petrie, Gregroy J. Soulliere, John M. Tirpak, Elisabeth B. Webb"
+  journal: "Wildfowl"
+  year: 2014
+
+- file: Winiarski et al 2014.pdf
+  title: >
+    A spatial conservation prioritization approach for protecting marine birds given proposed offshore wind energy development
+  author: "Kristopher J. Winiarski, David L. Miller, Peter W. C. Paton, Scott R. McWilliams"
+  journal: "Biological Conservation"
+  year: 2014
+
+- file: Winiarski et al 2014b.pdf
+  title: >
+    Integrating aerial and ship surveys of marine birds into a combined density surface model: A case study of wintering Common Loons
+  author: "Kristopher J. Winiarski, M. Louise Burt, Eric Rexstad, David L. Miller, Carol L. Trocki, Peter W. C. Paton, and Scott R. McWilliams"
+  journal: "Ornithological Applications"
   year: 2014
 
 - file: Alan and McWilliams 2013.pdf
@@ -489,6 +621,13 @@ Berry Pinshow"
   journal: "Journal of Ornithology"
   year: 2013
 
+- file: Winiarski et al 2013.pdf
+  title: >
+    Spatially explicit model of wintering Common Loons: Conservation implications
+  author: "Kristopher J. Winiarski, David L. Miller, Peter W. C. Paton, Scott R. McWilliams"
+  journal: "Marine Ecology Progress Series"
+  year: 2013
+
 - file: Bauchinger and McWilliams 2012.pdf
   title: >
     Tissue-specific mass changes during fasting: The protein turnover hypothesis
@@ -523,6 +662,13 @@ Berry Pinshow"
   author: "Silke Nebel, Ulf Bauchinger, Deborah M. Buehler, Lillie A. Langlois, Michelle Boyles,
 Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Guglielmo"
   journal: "The Journal of Experimental Biology"
+  year: 2012
+
+- file: Winiarski et al 2012.pdf
+  title: >
+    Rapid environmental degradation in a subarctic ecosystem influences resource use of a keystone avian herbivore Constitutive immune function in European Starlings, Sturnus vulgaris, is decreased immediately after an endurance flight in a wind tunnel
+  author: "Kristopher J. Winiarski, Scott R. McWilliams and Robert F. Rockwell"
+  journal: "Journal of Animal Ecology"
   year: 2012
 
 - file: Ben-Hamo et al 2011.pdf
@@ -581,6 +727,13 @@ Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Gug
   journal: "The Auk"
   year: 2011
 
+- file: Price et al 2011.pdf
+  title: >
+    Migration- and exercise-induced changes to flight muscle size in migratory birds and association with IGF1 and myostatin mRNA expression
+  author: "Edwin R. Price, Ulf Bauchinger, Daria M. Zajac, David J. Cerasale, Jay T. McFarlan, Alexander R. Gerson, Scott R. McWilliams and Christopher G. Guglielmo"
+  journal: "The Journal of Experimental Biology"
+  year: 2011
+
 - file: Bauchinger and McWilliams 2010.pdf
   title: >
     Extent of phenotypic flexibility during long-distance flight is determined by tissue-specific turnover rates: A new hypothesis
@@ -623,6 +776,13 @@ Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Gug
   journal: "The Journal of Experimental Biology"
   year: 2010
 
+- file: Smith and McWilliams 2010.pdf
+  title: >
+    Patterns of fuel use and storage in migrating passerines in relation to fruit resources at autumn stopover sites
+  author: "Susan B. Smith and Scott R. McWilliams"
+  journal: "The Auk"
+  year: 2010
+
 - file: Bauchinger and McWilliams 2009.pdf
   title: >
     Carbon turnover in tissues of a passerine bird: Allometry, isotopic clocks, and phenotypic flexibilty in organ size
@@ -642,6 +802,13 @@ Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Gug
     Macronutrient profiles of wetland plants consumed by the Hawaiian Moorhen (Gallinula Chloropus Sandvivensis)
   author: "David W. DesRochers, Scott R. McWilliams, Michael D. Silbernagle, and J. Michael Reed"
   journal: "Wetlands"
+  year: 2009
+
+- file: Smith and McWilliams 2009.pdf
+  title: >
+    Dietary macronutrients affect lipid metabolites and body composition of a migratory passerine, the White-Throated Sparrow (Zonotrichia albicollis)
+  author: "Susan B. Smith and Scott R. McWilliams"
+  journal: "Physiological and Biochemical Zoology"
   year: 2009
 
 - file: McCue et al 2009.pdf
@@ -672,10 +839,31 @@ Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Gug
   journal: "The Auk"
   year: 2007
 
+- file: Schneider and McWilliams 2007.pdf
+  title: >
+    Using nest temperature to estimate eest attendance of Piping Plovers
+  author: "Erin G. Schneider and Scott R. McWilliams"
+  journal: "Journal of Wildlife Management"
+  year: 2007
+
+- file: Smith et al 2007.pdf
+  title: >
+    Effect of diet composition on plasma metabolite profiles in a migratory songbird
+  author: "Susan B. Smith, Scott R. McWilliams and Christopher G. Guglielmo"
+  journal: "The Condor"
+  year: 2007
+
+- file: Smith et al 2007b.pdf
+  title: >
+    Fruit quality and consumption by songbirds during autumn migration
+  author: "Susan B. Smith, Kathleen H. McPherson, Jeffrey M. Backer, Barbara J. Pierce, David W. Podlesak, and Scott R. McWilliams"
+  journal: "The Wilson Journal of Ornithology"
+  year: 2007
+
 - file: Muller et al 2006.pdf
   title: >
     Tri-trophic effects of plant defenses: chickadees consume caterpillars based on host leaf chemistry
-  author: "Martina S. Mu¨ller, Scott R. McWilliams, David Podlesak, Jack R. Donaldson, Helen M. Bothwell and Richard L. Lindroth"
+  author: "Martina S. Muller, Scott R. McWilliams, David Podlesak, Jack R. Donaldson, Helen M. Bothwell and Richard L. Lindroth"
   journal: "Oikos"
   year: 2006
 
@@ -685,14 +873,6 @@ Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Gug
   author: "David W. Podlesak and Scott R. McWilliams"
   journal: "Physiological and Biochemical Zoology"
   year: 2006
-
-- file: McWilliams and Leafloor 2005.pdf
-  title: >
-    Effects of elevated CO2 on keystone herbivores in modern arctic ecosystems
-  author: "Scott R. McWilliams and James O. Leafloor"
-  journal: "A history of atmospheric CO2 and its effects on plants, animals, and
-ecosystems"
-  year: 2005
 
 - file: Endrulat et al 2005.pdf
   title: >
@@ -749,6 +929,13 @@ ecosystems"
     Stable isotopes in breath, blood, feces and feathers can indicate intra-individual changes in the diet of migratory songbirds
   author: "David W. Podlesak,  Scott R. McWilliams, and Kent A. Hatch"
   journal: "Oecologia"
+  year: 2005
+
+- file: Podlesak et al 2005.pdf
+  title: >
+    Techniques for wildlife nutritional ecology
+  author: "Frederick A. Servello, Eric C. Hellgren, and Scott R. McWilliams"
+  journal: "Techniques for Wildlife Investigations and Management"
   year: 2005
 
 - file: McKinney et al 2004.pdf
