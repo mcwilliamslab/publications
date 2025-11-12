@@ -5,13 +5,13 @@
   <meta name='viewport' content='width=device-width, initial-scale=1.0'>
   <title>Scott R. McWilliams Lab Publications</title>
   <style>
-  body {
-    font-family: sans-serif;
-    margin-left: 6rem;   /* pushes everything to the right */
-    color: #333;
-    line-height: 1.6;
-    max-width: 1200px;   /* allows more text to fit before wrapping */
-  }
+    body {
+      font-family: sans-serif;
+      margin: 2rem;
+      color: #333;
+      line-height: 1.6;
+      max-width: 900px;
+    }
     h1 {
       font-size: 2rem;
       margin-bottom: 1rem;
@@ -73,21 +73,12 @@
   </style>
 </head>
 <body>
-  <h1>Scott R. McWilliams Publications</h1>
+  <h1>McWilliams Lab Publications</h1>
   <p>Below are research papers made publicly available by the McWilliams Lab. Click the title to view or download.</p>
 
-<div class='controls'>
-  <!-- Search box -->
-  <input 
-    type="text" 
-    id="search-box" 
-    placeholder="Search publications..." 
-    style="padding:0.5rem; font-size:0.9rem; width: 250px; margin-right:0.5rem;"
-  >
-  
-  <!-- Sort button -->
-  <button id='sort-btn'>Sort by Year ↓</button>
-</div>
+  <div class='controls'>
+    <button id='sort-btn'>Sort by Year ↓</button>
+  </div>
 
   <div class='pub-list' id='pub-list'>
 <div class='pub-item' data-year='2025'>
@@ -1032,10 +1023,8 @@
     <span class='journal'>Journal of Iowa Academy of Sciences</span>
     <a class='download' href="pdfs/McWilliams and Bachmann 1988.pdf" download>(Download PDF)</a>
   </div>
-</div> <!-- end of pub-list -->
-
+</div>
 <script>
-  // SORT SCRIPT (already there)
   const sortBtn = document.getElementById('sort-btn');
   const pubList = document.getElementById('pub-list');
   let descending = true;
@@ -1052,22 +1041,5 @@
     sortBtn.textContent = descending ? 'Sort by Year ↓' : 'Sort by Year ↑';
   });
 </script>
-
-<script>
-  // SEARCH SCRIPT (add this after sort script)
-  const searchBox = document.getElementById('search-box');
-  const pubItems = pubList.getElementsByClassName('pub-item');
-
-  searchBox.addEventListener('input', function() {
-    const query = this.value.toLowerCase();
-    Array.from(pubItems).forEach(item => {
-      const text = item.textContent.toLowerCase();
-      item.style.display = text.includes(query) ? '' : 'none';
-    });
-  });
-</script>
-
 <footer>© 2025 McWilliams Lab — Licensed under CC BY-SA 4.0</footer>
-</body>
-</html>
-
+</body></html>
