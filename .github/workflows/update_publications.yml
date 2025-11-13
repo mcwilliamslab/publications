@@ -26,91 +26,10 @@ jobs:
           cat metadata.yml
           echo "--------------------------------------"
 
-      - name: Build index.html from metadata.yml
+      - name: Build index.html from metadata.yml and template
         run: |
-          echo "<!DOCTYPE html>
-          <html lang='en'>
-          <head>
-            <meta charset='UTF-8'>
-            <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-            <title>Scott R. McWilliams Lab Publications</title>
-            <style>
-              body {
-                font-family: sans-serif;
-                margin: 2rem;
-                color: #333;
-                line-height: 1.6;
-                max-width: 900px;
-              }
-              h1 {
-                font-size: 2rem;
-                margin-bottom: 1rem;
-                color: #2b4b80;
-              }
-              .controls {
-                margin-bottom: 1.5rem;
-              }
-              button {
-                background-color: #2b4b80;
-                color: white;
-                border: none;
-                border-radius: 6px;
-                padding: 0.5rem 1rem;
-                cursor: pointer;
-                font-size: 0.9rem;
-              }
-              button:hover {
-                background-color: #1f3660;
-              }
-              .pub-item {
-                margin-bottom: 1.5rem;
-              }
-              a {
-                color: #0066cc;
-                text-decoration: none;
-                display: inline-block;
-                max-width: 100%;
-                white-space: normal;
-                word-wrap: break-word;
-              }
-              a:hover {
-                text-decoration: underline;
-              }
-              .author {
-                display: block;
-                margin-top: 0.2rem;
-                color: #555;
-                font-size: 0.95rem;
-              }
-              .journal {
-                display: block;
-                margin-top: 0.1rem;
-                color: #777;
-                font-style: italic;
-                font-size: 0.9rem;
-              }
-              .download {
-                margin-left: 0.5rem;
-                font-size: 0.9rem;
-              }
-              footer {
-                margin-top: 3rem;
-                font-size: 0.8rem;
-                color: #777;
-                border-top: 1px solid #eee;
-                padding-top: 1rem;
-              }
-            </style>
-          </head>
-          <body>
-            <h1>McWilliams Lab Publications</h1>
-            <p>Below are research papers made publicly available by the McWilliams Lab. Click the title to view or download.</p>
-
-            <div class='controls'>
-              <button id='sort-btn'>Sort by Year ↓</button>
-            </div>
-
-            <div class='pub-list' id='pub-list'>" > index.html
+          template=$(cat index_template.html)
+          pub_list=""
 
           total_items=$(yq '. | length' metadata.yml)
           echo "Processing $total_items publications from metadata.yml..."
@@ -124,42 +43,23 @@ jobs:
 
             echo "Adding: $year | $title | $journal | $file"
 
-            echo "<div class='pub-item' data-year='$year'>
-              <a href=\"pdfs/$file\" target='_blank'>$year — $title</a>
-              <span class='author'>$author</span>
-              <span class='journal'>$journal</span>
-              <a class='download' href=\"pdfs/$file\" download>(Download PDF)</a>
-            </div>" >> index.html
+            pub_list="${pub_list}<div class='pub-item' data-year='${year}'>
+              <a href=\"pdfs/${file}\" target='_blank'>${year} — ${title}</a>
+              <span class='author'>${author}</span>
+              <span class='journal'>${journal}</span>
+              <a class='download' href=\"pdfs/${file}\" download>(Download PDF)</a>
+            </div>"
           done
 
-          # Add JS for sorting functionality
-          echo "</div>
-          <script>
-            const sortBtn = document.getElementById('sort-btn');
-            const pubList = document.getElementById('pub-list');
-            let descending = true;
-
-            sortBtn.addEventListener('click', () => {
-              const items = Array.from(pubList.querySelectorAll('.pub-item'));
-              items.sort((a, b) => {
-                const yearA = parseInt(a.dataset.year) || 0;
-                const yearB = parseInt(b.dataset.year) || 0;
-                return descending ? yearB - yearA : yearA - yearB;
-              });
-              items.forEach(item => pubList.appendChild(item));
-              descending = !descending;
-              sortBtn.textContent = descending ? 'Sort by Year ↓' : 'Sort by Year ↑';
-            });
-          </script>
-          <footer>© 2025 McWilliams Lab — Licensed under CC BY-SA 4.0</footer>
-          </body></html>" >> index.html
+          # Inject publication list into the template placeholder
+          echo "${template//<!--PUBLICATION_LIST-->/$pub_list}" > index.html
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add index.html
-          git commit -m "Rebuild publications page with year, journal, and sort button" || echo "No changes to commit"
+          git commit -m "Rebuild publications page using template" || echo "No changes to commit"
 
           # Pull latest remote changes before pushing
           git pull --rebase origin main || echo "Rebase failed or not needed"
