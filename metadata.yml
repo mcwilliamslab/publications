@@ -502,6 +502,13 @@
   journal: "The Journal of Wildlife Management"
   year: 2014
 
+- file: Masse et al 2014.pdf
+  title: >
+    Multiscale habitat selection by a forest-dwelling shorebird, the American woodcock: Implications for forest management in southern New England, USA
+  author: "Roger J. Masse, Brian C. Tefft, Scott R. McWilliams"
+  journal: "Forest Ecology and Management"
+  year: 2014
+
 - file: McWilliams and Karasov 2014.pdf
   title: >
     Spare capacity and phenotypic flexibility in the digestive system of a migratory bird: defining the limits of animal design
@@ -642,6 +649,13 @@
   journal: "The Journal of Wildlife Management"
   year: 2012
 
+- file: Cohen et al 2012.pdf
+  title: >
+    Physiological regulatory networks: Ecological roles and evolutionary constraints
+  author: "Alan A. Cohen, Lynn B. Martin, John C. Wingfield, Scott R. McWilliams, and Jennifer A. Dunne"
+  journal: "Trends in Ecology and Evolution"
+  year: 2012
+
 - file: McKinney and McWilliams 2012.pdf
   title: >
     Energy-based carrying capacities of Bufflehead Bucephala albeola wintering habitats
@@ -704,6 +718,13 @@ Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Gug
     Flight muscle shape reliably predicts flight muscle mass of migratory songbirds: a new tool for field ornithologists
   author: "Ulf Bauchinger, Scott R. McWilliams, Harold Kolb, Vladimir M. Popenko, Edwin R. Price, and Herbert Biebach"
   journal: "Journal of Ornithology"
+  year: 2011
+
+- file: Buffum et al 2011.pdf
+  title: >
+    A spatial analysis of forest management and its contribution to maintaining the extent of shrubland habitat in southern New England, United States
+  author: "Bill Buffum, Scott R. McWilliams, and Peter V. August"
+  journal: "Forest Ecology and Management"
   year: 2011
 
 - file: McCue et al 2011b.pdf
@@ -821,9 +842,16 @@ Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Gug
 - file: McCue et al 2009.pdf
   title: >
     Effect of dietary fatty acid composition on fatty acid profiles of polar and neutral lipid tissue fractions in zebra finches, Taeniopygia guttata
-  author: "Marshall D. McCue, Oren Amitai, Inna Khozin-Goldberg, Scott R. McWilliams, Berry Pinshowa"
+  author: "Marshall D. McCue, Oren Amitai, Inna Khozin-Goldberg, Scott R. McWilliams, Berry Pinshow"
   journal: "Comparative Biochemistry and Physiology, Part A"
   year: 2009
+
+- file: Kurvers et al 2008.pdf
+  title: >
+    Experimental manipulation of testosterone and condition during molt affects activity and vocalizations of male blue tits
+  author: "Ralf H.J.M. Kurvers, Mark L. Roberts, Scott R. McWilliams, and Anne Peters"
+  journal: "Hormones and Behavior"
+  year: 2008
 
 - file: McKinney et al 2007.pdf
   title: >
