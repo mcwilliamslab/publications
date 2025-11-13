@@ -49,7 +49,7 @@ jobs:
               <span class='journal'>${journal}</span>
               <a class='download' href=\"pdfs/${file}\" download>(Download PDF)</a>
             </div>"
-          done
+          done 
 
           # Inject publication list into the template placeholder
           echo "${template//<!--PUBLICATION_LIST-->/$pub_list}" > index.html
