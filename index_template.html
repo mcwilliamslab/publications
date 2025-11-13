@@ -7,7 +7,7 @@
   <style>
     body {
       font-family: sans-serif;
-      margin: 2rem;
+      margin: 4rem;
       color: #333;
       line-height: 1.6;
       max-width: 900px;
@@ -75,6 +75,43 @@
 <body>
   <h1>McWilliams Lab Publications</h1>
   <p>Below are research papers made publicly available by the McWilliams Lab. Click the title to view or download.</p>
+
+<div class='controls'>
+  <input type='text' id='search' placeholder='Search publications...' style='padding: 0.5rem; width: 60%; max-width: 400px;'>
+  <button id='sort-btn'>Sort by Year ↓</button>
+</div>
+
+<div class='pub-list' id='pub-list'>
+  <!--PUBLICATION_LIST-->
+</div>
+
+<script>
+  // Simple text search
+  document.getElementById('search').addEventListener('input', function() {
+    const filter = this.value.toLowerCase();
+    const pubs = document.querySelectorAll('.pub-item');
+    pubs.forEach(pub => {
+      const text = pub.textContent.toLowerCase();
+      pub.style.display = text.includes(filter) ? '' : 'none';
+    });
+  });
+
+  // Sort button toggle
+  const sortBtn = document.getElementById('sort-btn');
+  let ascending = false;
+  sortBtn.addEventListener('click', () => {
+    const pubList = document.getElementById('pub-list');
+    const items = Array.from(pubList.children);
+    items.sort((a, b) => {
+      const yearA = parseInt(a.getAttribute('data-year'));
+      const yearB = parseInt(b.getAttribute('data-year'));
+      return ascending ? yearA - yearB : yearB - yearA;
+    });
+    items.forEach(item => pubList.appendChild(item));
+    ascending = !ascending;
+    sortBtn.textContent = ascending ? 'Sort by Year ↑' : 'Sort by Year ↓';
+  });
+</script>
 
   <div class='controls'>
     <button id='sort-btn'>Sort by Year ↓</button>
