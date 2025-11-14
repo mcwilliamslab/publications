@@ -980,13 +980,6 @@ ecosystems"
   journal: "Wildlife Biology"
   year: 2004
 
-- file: McWilliams and Raveling 1994.pdf
-  title: >
-    Predator-prey interactions between eagles and Cackling Canada and Ross' Geese during winter in California
-  author: "Scott R. McWilliams, Jon P. Dunn and Dennis G. Raveling"
-  journal: "Wilson Bulletin"
-  year: 1994
-
 - file: McWilliams et al 2004.pdf
   title: >
     Energetics and time allocation of Cackling Canada Geese during spring
@@ -1098,6 +1091,13 @@ ecosystems"
   author: "Scott R. McWilliams, Daniel Afik, Stephen Secor"
   journal: "Trends in Ecology and Evolution"
   year: 1997
+
+- file: McWilliams and Raveling 1994.pdf
+  title: >
+    Predator-prey interactions between eagles and Cackling Canada and Ross' Geese during winter in California
+  author: "Scott R. McWilliams, Jon P. Dunn and Dennis G. Raveling"
+  journal: "Wilson Bulletin"
+  year: 1994
 
 - file: McWilliams 1992.pdf
   title: >
