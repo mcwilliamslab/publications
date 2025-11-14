@@ -89,7 +89,7 @@
   journal: "Wildlife Biology"
   year: 2023
 
-- file: Blomgberg et al 2023.pdf
+- file: Blomberg et al 2023.pdf
   title: >
     The American Woodcock Singing Ground Survey largely conforms to the phenology of male woodcock migration
   author: "Erik J. Blomberg, Alexander C. Fish, Liam A. Berigan, Amber M. Roth, Rebecca Rau, Sarah J. Clements, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Clayton L. Graham, William Harvey, Michael Hook, Douglas L. Howell, Seth Maddox, Scott McWilliams, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, Colby Slezak, Josh Stiller, Mathieu Tetreault, and Lisa Williams"
@@ -213,13 +213,6 @@
     How birds during migration maintain (oxidative) balance
   author: "Scott McWilliams, Wales Carter, Clara Cooper-Mullin, Kristen DeMoranville, Abigail Frawley, Barbara Pierce, and Megan Skrip"
   journal: "Frontiers in Ecology and Evolution"
-  year: 2021
-
-- file: Mizrahy et al 2021.pdf
-  title: >
-    Availability of water affects renewal of tissues in migratory Blackcaps during stopover
-  author: "Ortal Mizrahy, Ulf Bauchinger, Sarah E. Aamidor, Scott R. McWilliams, and Berry Pinshow"
-  journal: "Integrative and Comparative Biology"
   year: 2021
 
 - file: Roelandt et al 2021.pdf
@@ -746,6 +739,13 @@ Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Gug
     Book reviews: Ecological and environmental physiology of birds
   author: "Scott R. McWilliams"
   journal: "The Auk"
+  year: 2011
+
+- file: Mizrahy et al 2011.pdf
+  title: >
+    Availability of water affects renewal of tissues in migratory Blackcaps during stopover
+  author: "Ortal Mizrahy, Ulf Bauchinger, Sarah E. Aamidor, Scott R. McWilliams, and Berry Pinshow"
+  journal: "Integrative and Comparative Biology"
   year: 2011
 
 - file: Price et al 2011.pdf
