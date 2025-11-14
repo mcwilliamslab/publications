@@ -1,8 +1,22 @@
+- file: Bakner et al 2025.pdf
+  title: >
+    Seasonal waterbird distribution patterns vary in response to current shellfish aquaculture and areas suitable for future development in Rhode Island USA 
+  author: "Dylan L. Bakner, Tori Mezebish Quinn, Martina S. Müller, Peter W. Paton, Jennifer E. Kilburn, and Scott R. McWilliams"
+  journal: "Global Ecology and Conservation"
+  year: 2025
+  
 - file: Berigan et al 2025.pdf
   title: >
     Low migratory flight altitudes may explain increased collision risk for Scolopax minor (American Woodcock)
   author: "Liam Berigan, Sarah Clements, Rachel Darling, Alexander Fish, Amber Roth, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Kayleigh Filkins, Clayton Graham, William Harvey, Michael Hook, Douglas Howell, Seth Maddox, Scott R. McWilliams, Shawn Meyer, Theodore Nichols, J. Bruce Pollard, Christian Roy, David Sausville, Colby Slezak, Josh Stiller, Jacob Straub, Mathieu Tetreault, Dawn Washington, Lisa Williams, and Erik Blomberg"
   journal: "Ornithological Applications"
+  year: 2025
+
+- file: Cooper-Mullin et al 2025.pdf
+  title: >
+    Winter waterfowl relative abundance trends in New England's largest estuary
+  author: "Clara Cooper-Mullin, Peter W.C. Paton, Jennifer Kilburn and Scott R. McWilliams"
+  journal: "Northeastern Naturalist"
   year: 2025
   
 - file: Corcoran et al 2025.pdf
@@ -12,6 +26,13 @@
   journal: "The Wilson Journal of Ornithology"
   year: 2025
 
+- file: DeMoranville et al 2025.pdf
+  title: >
+    Flying stimulates the antioxidant system and protects against oxidative damage in a migratory songbird, yet diet quality has little effect
+  author: "Kristen J. DeMoranville, Wales Carter, Clara Cooper-Mullin, Liam Corcoran, Barbara J. Pierce, and Scott R. McWilliams"
+  journal: "Journal of Avian Biology"
+  year: 2025
+
 - file: Finn et al 2025.pdf
   title: >
     Plant constituent predictors in the winter diet selection of the imperiled New England Cottontail (Sylvilagus transitionalis)
@@ -19,18 +40,25 @@
   journal: "Journal of Mammalogy"
   year: 2025
 
-- file: Slezak et al 2025.pdf
-  title: >
-    Mismatch between strong nest-site selection and low survival of nests and broods for Scolopax minor (American Woodcock) and its implications for conservation
-  author: "Colby R. Slezak, Ian M. Delmonico, Jennifer E. Kilburn, and Scott R. McWilliams"
-  journal: "Ornithological Applications"
-  year: 2025
-
 - file: Gray et al 2025.pdf
   title: >
     Under the umbrella: Does management for American woodcock increase reproductive success of a declining songbird?
   author: "Megan E. Gray, Liam S. Corcoran, and Scott R. McWilliams"
   journal: "Journal of Wildlife Management"
+  year: 2025
+
+- file: Slezak et al 2025b.pdf
+  title: >
+    Nine years of tracking data reveal high postbreeding survival of radiomarked male woodcock in Rhode Island
+  author: "Colby R. Slezak, Dylan L. Bakner, Roger J. Masse, and Scott R. McWilliams"
+  journal: "Wildlife Society Bulletin"
+  year: 2025
+
+- file: Slezak et al 2025.pdf
+  title: >
+    Mismatch between strong nest-site selection and low survival of nests and broods for Scolopax minor (American Woodcock) and its implications for conservation
+  author: "Colby R. Slezak, Ian M. Delmonico, Jennifer E. Kilburn, and Scott R. McWilliams"
+  journal: "Ornithological Applications"
   year: 2025
 
 - file: Thompson et al 2025.pdf
@@ -898,7 +926,7 @@ Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Gug
 - file: Muller et al 2006.pdf
   title: >
     Tri-trophic effects of plant defenses: chickadees consume caterpillars based on host leaf chemistry
-  author: "Martina S. Muller, Scott R. McWilliams, David Podlesak, Jack R. Donaldson, Helen M. Bothwell and Richard L. Lindroth"
+  author: "Martina S. Müller, Scott R. McWilliams, David Podlesak, Jack R. Donaldson, Helen M. Bothwell and Richard L. Lindroth"
   journal: "Oikos"
   year: 2006
 
