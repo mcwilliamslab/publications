@@ -47,6 +47,13 @@
   journal: "Journal of Wildlife Management"
   year: 2025
 
+- file: Michael et al 2025.pdf
+  title: >
+    From declines to recovery: 52 years of changes in autumn migratory songbird abundance at an island stopover site in southern New England
+  author: "Lauren E. Michael, Steven E. Reinert and Scott R. McWilliams"
+  journal: "Ornithological Applications"
+  year: 2025
+
 - file: Slezak et al 2025b.pdf
   title: >
     Nine years of tracking data reveal high postbreeding survival of radiomarked male woodcock in Rhode Island
@@ -67,6 +74,13 @@
   author: "Daniel P. Thompson, Kristin Denryter, and Scott R. McWilliams"
   journal: "The Wildlife Professional"
   year: 2025
+
+- file: Carter et al 2024.pdf
+  title: >
+    Dietary fatty acids and flight-training influence the expression of the eicosanoid hormone prostacyclin in songbirds
+  author: "Wales A. Carter, Kristen J. DeMoranville, Lisa Trost, Amadeusz Bryła c, Maciej Działo, Edyta T. Sadowska, Ulf Bauchinger, Barbara Pierce, and Scott R. McWilliams"
+  journal: "Comparative Biochemistry and Physiology, Part A"
+  year: 2024
 
 - file: Clements et al 2024.pdf
   title: >
@@ -99,7 +113,7 @@
 - file: Malkoc et al 2024.pdf
   title: >
     Commentary on Thoral et al. (2024) ‘The relationship between mitochondrial respiration, resting metabolic rate and blood cell count in great tits’
-  author: "Kasja Malkoc, Michaela Hau, Scott McWilliams, Edyta Teresa Sadowska, Maciej Dzialo, Barbara Pierce, Lisa Trost, Ulf Bauchinger, Eve Udino and Stefania Casagrande"
+  author: "Kasja Malkoc, Michaela Hau, Scott McWilliams, Edyta Teresa Sadowska, Maciej Działo, Barbara Pierce, Lisa Trost, Ulf Bauchinger, Eve Udino and Stefania Casagrande"
   journal: "Biology Open"
   year: 2024
 
@@ -108,6 +122,13 @@
     Habitat selection of non‐breeding American black ducks in an urban estuary
   author: "Tori Mezebish Quinn, Peter W.C. Paton, Brian D. Gerber, Jennifer E. Kilburn, and Scott R. McWilliams"
   journal: "The Journal of Wildlife Management"
+  year: 2024
+
+- file: Slezak et al 2024.pdf
+  title: >
+    Unconventional life history in a migratory shorebird: Desegregating reproduction and migration
+  author: "Colby R. Slezak, Erik J. Blomberg, Amber M. Roth, Liam A. Berigan, Alexander C. Fish, Rachel Darling, Sarah J. Clements, Greg Balkcom, Bobbi Carpenter, Gary Costanzo, Jeffrey Duguay, Clayton L. Graham, William Harvey, Michael Hook, Douglas L. Howel, Seth Maddox, Shawn W. Meyer, Theodore C. Nichols, J. Bruce Pollard, Christian Roy, Joshua C. Stiller, Jacob N. Straub, Mathieu Tetreault, Reina Tyl, Lisa Williams, Jennifer E. Kilburn, and Scott R. McWilliams"
+  journal: "Proceedings of the Royal Society B"
   year: 2024
 
 - file: Bianchini et al 2023.pdf
@@ -127,16 +148,23 @@
 - file: Casagrande et al 2023.pdf
   title: >
     Mitochondrial metabolism in blood more reliably predicts whole-animal energy needs compared to other tissues
-  author: "Stefania Casagrande, Maciej Dzialo, Lisa Trost, Kasja Malkoc, Edyta Teresa, Michaela Hau, Barbara Pierce, Scott McWilliams, and Ulf Bauchinger"
+  author: "Stefania Casagrande, Maciej Działo, Lisa Trost, Kasja Malkoc, Edyta Teresa, Michaela Hau, Barbara Pierce, Scott McWilliams, and Ulf Bauchinger"
   journal: "iScience"
   year: 2023
 
 - file: Dzialo et al 2023.pdf
   title: >
     Concerted phenotypic flexibility of avian erythrocyte size and number in response to dietary anthocyanin supplementation
-  author: "Maciej Dzialo, Amadeusz Bryła, Kristen J. DeMoranville, Katherine M. Carbeck, Olivia Fatica, Lisa Trost, Barbara Pierce, Edyta T. Sadowska, Scott R. McWilliams, and Ulf Bauchinger"
+  author: "Maciej Działo, Amadeusz Bryła, Kristen J. DeMoranville, Katherine M. Carbeck, Olivia Fatica, Lisa Trost, Barbara Pierce, Edyta T. Sadowska, Scott R. McWilliams, and Ulf Bauchinger"
   journal: "Frontiers in Zoology"
   year: 2023
+
+- file: Cooper-Mullin and McWilliams 2022.pdf
+  title: >
+     Fat scores and antioxidant capacity affect stopver decisions in three of four species of migratory passerines with different migration strategies: An experimental approach
+  author: "Clara Cooper-Mullin and Scott R. McWilliams"
+  journal: "Frontiers in Ecology and Evolution"
+  year: 2022
 
 - file: Grady et al 2022.pdf
   title: >
@@ -159,6 +187,13 @@
   journal: "The Journal of Experimental Biology"
   year: 2022
 
+- file: Slezak et al 2023.pdf
+  title: >
+    Sex‐specific differences and long‐term trends in habitat selection of American woodcock
+  author: "Colby R. Slezak, Roger J. Masse, and Scott R. McWilliams"
+  journal: "Journal of Wildlife Management"
+  year: 2023
+
 - file: Suldovsky et al 2022.pdf
   title: >
     Editorial: Helping scientists to communicate well for all considered: Strategic science communication in an age of environmental and health crises
@@ -171,6 +206,20 @@
     Novel use of species distribution modeling to identify high priority sites for American Woodcock habitat management
   author: "Bill Buffum, Roger J. Masse and Scott R. McWilliams"
   journal: "Northeastern Naturalist"
+  year: 2021
+
+- file: Carter et al 2021.pdf
+  title: >
+    Dietary linoleic acid, antioxidants, and flight training influence the activity of oxidative enzymes in European Starlings (Sturnus vulgaris)
+  author: "Wales A. Carter, Kristen J. DeMoranville, Barbara J. Pierce, and Scott R. McWilliams"
+  journal: "Journal of Comparative Physiology B"
+  year: 2021
+
+- file: Carter et al 2021b.pdf
+  title: >
+    Seasonal and interspecific variation in frugivory by a mixed resident-migrant overwintering songbird community
+  author: "Wales A. Carter, Scott F. Pearson, Adam D. Smith, Scott R. McWilliams, and Douglas J. Levey"
+  journal: "Diversity"
   year: 2021
 
 - file: Cooper-Mullin et al 2021.pdf
@@ -236,6 +285,13 @@
   journal: "Journal of Ornithology"
   year: 2021
 
+- file: Powell et al 2021.pdf
+  title: >
+    An inexpensive, 3D-printable breast muscle meter for field ornithologists
+  author: "Luke L. Powell, Adam Metallo, Crinan Jarrett, Nathan W. Cooper, Peter P. Marra, Scott R. McWilliams, Ulf Bauchinger, and Bryant C. Dossman1
+  journal: "Journal of Field Ornithology"
+  year: 2021
+
 - file: McWilliams et al 2021.pdf
   title: >
     How birds during migration maintain (oxidative) balance
@@ -257,6 +313,13 @@
   journal: "Ecology and Evolution"
   year: 2020
 
+- file: Casagrande et al 2020.pdf
+  title: >
+    Dietary antioxidants attenuate the endocrine stress response during long-duration flight of a migratory bird
+  author: "Stefania Casagrande, Kristen J. DeMoranville, Lisa Trost, Barbara Pierce, Amadeusz Bryła, Maciej Dzialo, Edyta T. Sadowska, Ulf Bauchinger and Scott R. McWilliams"
+  journal: "Proceedings of the Royal Society B"
+  year: 2020
+
 - file: Ferretti et al 2020.pdf
   title: >
     Energy stores, oxidative balance, and sleep in migratory Garden Warblers (Sylvia borin) and Whitethroats (Sylvia communis) at a spring stopover site
@@ -269,6 +332,13 @@
     Implanted satellite transmitters affect sea duck movement patterns at short and long timescales
   author: "Juliet S. Lamb, Peter W. C. Paton, Jason E. Osenkowski, Shannon S. Badzinski, Alicia M. Berlin, Tim Bowman, Chris Dwyer, Luke J. Fara, Scott G. Gilliland, Keven Kenow, Christine Lepage, Mark L. Mallory, Glenn H. Olsen, Matthew C. Perry, Scott A. Petrie, Jean-Pierre L. Savard, Lucas Savoy, Michael Schummer, Caleb S. Spiegel, and Scott R. McWilliams"
   journal: "Ornithological Applications"
+  year: 2020
+
+- file: McWilliams et al 2020b.pdf
+  title: >
+    The energy savings-oxidative cost tradeoff for migratory birds during endurance flight
+  author: "Scott McWilliams, Barbara Pierce, Andrea Wittenzellner, Lillie Langlois, Sophia Engel, John R Speakman, Olivia Fatica, Kristen DeMoranville, Wolfgang Goymann, Lisa Trost, Amadeusz Bryla, Maciej Dzialo, Edyta Sadowska, Ulf Bauchinger"
+  journal: "eLife"
   year: 2020
 
 - file: Lamb et al 2020b.pdf
@@ -320,6 +390,13 @@
   journal: "Physiological and Biochemical Zoology"
   year: 2019
 
+- file: Cooper-Mullin et al 2019.pdf
+  title: >
+    Acute effects of intense exercise on the antioxidant system in birds: Does exercise training help?
+  author: "Clara Cooper-Mullin, Wales A. Carter, and Scott R. McWilliams"
+  journal: "Journal of Experimental Biology"
+  year: 2019
+
 - file: Ferretti et al 2019.pdf
   title: >
     Sleeping unsafely tucked in to conserve energy in a nocturnal migratory songbird
@@ -360,6 +437,13 @@
     Turnover of muscle lipids and response to exercise differ between neutral and polar fractions in a model songbird, the zebra finch
   author: "Wales A. Carter, Clara Cooper-Mullin and Scott R. McWilliams"
   journal: "Journal of Experimental Biology"
+  year: 2018
+
+- file: Carbeck et al 2018.pdf
+  title: >
+    Environmental cues and dietary antioxidants affect breeding behavior and testosterone of male European starlings (Sturnus vulgaris)
+  author: "Katherine M. Carbeck, Kristen J. DeMoranville, Pietro B. D'Amelio, Wolfgang Goymann, Lisa Trost, Barbara Pierce, Amadeusz Bryłae, Maciej Działo, Ulf Bauchinger, and Scott R. McWilliams"
+  journal: "Hormones and Behavior"
   year: 2018
 
 - file: Druschke et al 2018.pdf
@@ -439,6 +523,13 @@
   journal: "Journal of Comparative Physiology"
   year: 2016
 
+- file: Martinez del Rio et al 2016.pdf
+  title: >
+    How essential fats affect bird performance and link aquatic ecosystems and terrestrial consumers
+  author: "Carlos Martinez del Rio and Scott R. McWilliams"
+  journal: "PNAS"
+  year: 2016
+
 - file: Skrip and McWilliams 2016.pdf
   title: >
     Oxidative balance in birds: an atoms-to-organisms-to-ecology primer for ornithologists
@@ -447,6 +538,13 @@
   year: 2016
 
 - file: Skrip et al 2016.pdf
+  title: >
+    Bat activity during autumn relates to atmospheric conditions: implications for coastal wind energy development
+  author: "Adam D. Smith and Scott R. McWilliams"
+  journal: "Journal of Mammalogy"
+  year: 2016
+
+- file: Smith and McWilliams 2016.pdf
   title: >
     Dietary antioxidants and flight exercise in female birds affect allocation of nutrients to eggs: how carry-over effects work
   author: "Megan M. Skrip, Navindra P. Seeram, Tao Yuan, Hang Ma, and Scott R. McWilliams"
@@ -922,6 +1020,13 @@ Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Gug
   author: "Susan B. Smith, Kathleen H. McPherson, Jeffrey M. Backer, Barbara J. Pierce, David W. Podlesak, and Scott R. McWilliams"
   journal: "The Wilson Journal of Ornithology"
   year: 2007
+
+- file: McKinney et al 2006.pdf
+  title: >
+    Waterfowl–habitat associations during winter in an urban North Atlantic estuary
+  author: "Richard A. McKinney, Scott R. McWilliams, and Michael A. Charpentier"
+  journal: "Biological Conservation"
+  year: 2006
 
 - file: Muller et al 2006.pdf
   title: >
