@@ -159,6 +159,13 @@
   journal: "Frontiers in Zoology"
   year: 2023
 
+- file: Slezak et al 2023.pdf
+  title: >
+    Sex‐specific differences and long‐term trends in habitat selection of American woodcock
+  author: "Colby R. Slezak, Roger J. Masse, and Scott R. McWilliams"
+  journal: "Journal of Wildlife Management"
+  year: 2023
+
 - file: Cooper-Mullin and McWilliams 2022.pdf
   title: >
      Fat scores and antioxidant capacity affect stopver decisions in three of four species of migratory passerines with different migration strategies: An experimental approach
@@ -180,19 +187,19 @@
   journal: "Ornithological Applications"
   year: 2022
 
+- file: McWilliams et al 2022.pdf
+  title: >
+    Physiological challenges of migration
+  author: "Scott R. McWilliams, Marilyn Ramenofsky, and Barbara J. Pierce"
+  journal: "Sturkie's Avian Physiology 7th Edition"
+  year: 2022
+
 - file: Price et al 2022.pdf
   title: >
     The effects of training, acute exercise and dietary fatty acid composition on muscle lipid oxidative capacity in European Starlings
   author: "Edwin R. Price, Ulf Bauchinger, Scott R. McWilliams, Michelle L. Boyles, Lillie A. Langlois, Alexander R. Gerson and Christopher G. Guglielmo"
   journal: "The Journal of Experimental Biology"
   year: 2022
-
-- file: Slezak et al 2023.pdf
-  title: >
-    Sex‐specific differences and long‐term trends in habitat selection of American woodcock
-  author: "Colby R. Slezak, Roger J. Masse, and Scott R. McWilliams"
-  journal: "Journal of Wildlife Management"
-  year: 2023
 
 - file: Suldovsky et al 2022.pdf
   title: >
@@ -339,6 +346,27 @@
     The energy savings-oxidative cost tradeoff for migratory birds during endurance flight
   author: "Scott McWilliams, Barbara Pierce, Andrea Wittenzellner, Lillie Langlois, Sophia Engel, John R Speakman, Olivia Fatica, Kristen DeMoranville, Wolfgang Goymann, Lisa Trost, Amadeusz Bryla, Maciej Dzialo, Edyta Sadowska, Ulf Bauchinger"
   journal: "eLife"
+  year: 2020
+
+- file: WIAB_Chapter4.pdf
+  title: >
+    Physiology
+  author: "Scott McWilliams, Scott A. MacDougall-Shackleton"
+  journal: "What is a Bird?"
+  year: 2020
+
+- file: WIAB_Chapter5.pdf
+  title: >
+    Getting around
+  author: "Scott McWilliams, Scott A. MacDougall-Shackleton"
+  journal: "What is a Bird?"
+  year: 2020
+
+- file: WIAB_Chapter5.pdf
+  title: >
+    Migration and navigation
+  author: "Scott McWilliams, Scott A. MacDougall-Shackleton"
+  journal: "What is a Bird?"
   year: 2020
 
 - file: Lamb et al 2020b.pdf
@@ -865,6 +893,13 @@ Alexander R. Gerson, Edwin R. Price, Scott R. McWilliams, and Christopher G. Gug
     Book reviews: Ecological and environmental physiology of birds
   author: "Scott R. McWilliams"
   journal: "The Auk"
+  year: 2011
+
+- file: ELS Vert Nutrition 2011.pdf
+  title: >
+    Ecology of Vertebrate Nutrition
+  author: "Scott R. McWilliams"
+  journal: "Encyclopedia of Life Sciences, 2nd edition"
   year: 2011
 
 - file: Mizrahy et al 2011.pdf
